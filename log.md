@@ -3,31 +3,31 @@
 ## 1. gr. Nafn félagsins
 
 ###    1. mgr.
-    Nafn félagsins er "Nörd Félag tölvunarfræði- og hugbúnaðarverkfræðinema við Háskóla Íslands".
+Nafn félagsins er "Nörd Félag tölvunarfræði- og hugbúnaðarverkfræðinema við Háskóla Íslands".
 
 ## 2. gr. Varnarþing félagsins
 
 ###    1. mgr.
-    Varnarþing félagsins er í Reykjavík.
+Varnarþing félagsins er í Reykjavík.
 
 ## 3. gr. Upplýsingar um félagið
 
 ###    1. mgr.
-    Tilgangur félagsins er að gæta hagsmuna félagsmanna og halda uppi skemmtanalífi meðal félagsmanna s.s. árshátíðum, vísindaferðum, jólaglöggi, 5 ára stór árshátíð félagsins og þeim uppákomum sem félagsmönnum dettur í hug hverju sinni. Ennfremur að sjá um kynningu og fræðslu á tölvunarfræði og skyldum málefnum.
+Tilgangur félagsins er að gæta hagsmuna félagsmanna og halda uppi skemmtanalífi meðal félagsmanna s.s. árshátíðum, vísindaferðum, jólaglöggi, 5 ára stór árshátíð félagsins og þeim uppákomum sem félagsmönnum dettur í hug hverju sinni. Ennfremur að sjá um kynningu og fræðslu á tölvunarfræði og skyldum málefnum.
 
 ###    2. mgr.
-    Nörd er aðildafélag að Félagi verkfræðinema (FV) og heyrir undir lög þess. Félagsmenn Nörd öðlast sjálfkrafa aðild að FV. Nörd er einnig aðili að NáttVerk, hagsmunasamtökum nemenda við Verkfræði- og náttúruvísindasvið (VON).
+Nörd er aðildafélag að Félagi verkfræðinema (FV) og heyrir undir lög þess. Félagsmenn Nörd öðlast sjálfkrafa aðild að FV. Nörd er einnig aðili að NáttVerk, hagsmunasamtökum nemenda við Verkfræði- og náttúruvísindasvið (VON).
 
 ## 4. gr. Lög um aðalfund félagsins
 
 ###    1. mgr.
-    Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
+Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
 
 ###    2. mgr.
-    Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar  ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samfélaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
+Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar  ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samfélaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
 
 ###    3. mgr.
-    Rétt til fundarsetu hafa allir þeir sem skráðir eru í tölvunarfræði og hugbúnaðarverkfræði við Háskóla Íslands eða eru meðlimir skráðir í Nörd en atkvæðisbærir skulu þeir einir teljast sem skráðir eru í Nörd. Þeir einir hafa leyfi til að bjóða sig fram í embætti sem skráðir eru í félagið.
+Rétt til fundarsetu hafa allir þeir sem skráðir eru í tölvunarfræði og hugbúnaðarverkfræði við Háskóla Íslands eða eru meðlimir skráðir í Nörd en atkvæðisbærir skulu þeir einir teljast sem skráðir eru í Nörd. Þeir einir hafa leyfi til að bjóða sig fram í embætti sem skráðir eru í félagið.
 
 ###    4. mgr.
 Dagskrá aðalfundar:
@@ -87,47 +87,68 @@ Stjórn félagsins má boða til aukafundar ef hún telur þörf til þess. Með
 ###    1. mgr.
 Embætti félagsins eru eftirfarandi:
 
-Stjórn: Hana skulu skipa sjö aðilar: forseti, ritari, gjaldkeri, hagsmunafulltrúi, skemmtanastjóri, samfélagsmiðill og nýnemafulltrúi. Stjórn félagsins er skylt að vera meðlimir í Nörd. Stjórn félagsins er heimilt að ráða þeirri upphæð sem hún greiðir í félagið, hvort sem það er fullt gjald eða ekkert, svo lengi sem viðkomandi sinnir embættinu.
+#### Stjórn
+Hana skulu skipa sjö aðilar: forseti, ritari, gjaldkeri, hagsmunafulltrúi, skemmtanastjóri, samfélagsmiðill og nýnemafulltrúi. Stjórn félagsins er skylt að vera meðlimir í Nörd. Stjórn félagsins er heimilt að ráða þeirri upphæð sem hún greiðir í félagið, hvort sem það er fullt gjald eða ekkert, svo lengi sem viðkomandi sinnir embættinu.
 
-Forseti: Hann skal sitja embættisfundi fyrir hönd félagsins og vera andlit þess útávið auk þess að vera blaðafulltrúi og kynningarfulltrúi. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðar-, Vélaverkfræði og Tölvunarfræði (IVT). Forseti skal sitja fyrir hönd félagsins í stjórn FV. Auk þess á hann sæti í NáttVerk fyrir hönd tölvunarfræði- og hugbúnaðarverkfræðinema samkvæmt lögum samtakanna. Forseti skal rita skýrslu stjórnar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu stjórnar.
+#### Forseti
+Hann skal sitja embættisfundi fyrir hönd félagsins og vera andlit þess útávið auk þess að vera blaðafulltrúi og kynningarfulltrúi. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðar-, Vélaverkfræði og Tölvunarfræði (IVT). Forseti skal sitja fyrir hönd félagsins í stjórn FV. Auk þess á hann sæti í NáttVerk fyrir hönd tölvunarfræði- og hugbúnaðarverkfræðinema samkvæmt lögum samtakanna. Forseti skal rita skýrslu stjórnar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu stjórnar.
 
-Ritari: Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 1) síðasta ársreikningi félagsins, 2) skýrslu stjórnar, 3) skýrslu skemmtinefndar, 4) uppfærðum lögum félagsins, 5) öðrum skjölum sem ritari telur að félagið eigi að varðveita, 6) rita fundargerð af fundum stjórnar sem er aðgengileg fyrir meðlimi Nörd. Ritari skal skipa árshátíðarnefnd fyrir árshátíð Nörd.
+#### Ritari 
+Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 1) síðasta ársreikningi félagsins, 2) skýrslu stjórnar, 3) skýrslu skemmtinefndar, 4) uppfærðum lögum félagsins, 5) öðrum skjölum sem ritari telur að félagið eigi að varðveita, 6) rita fundargerð af fundum stjórnar sem er aðgengileg fyrir meðlimi Nörd. Ritari skal skipa árshátíðarnefnd fyrir árshátíð Nörd.
 
-Gjaldkeri: Hann skal annast öll fjármál félagsins og halda bókhald um rekstur félagsins og skila ársreikningi á aðalfundi. Hann skal einnig sjá um útleigu skápa og annarra eigna nörd. Hann skal sjá um sameiginlegan sjóð Félags verkfræðinema til jafns við önnur aðildarfélög.
+#### Gjaldkeri
+Hann skal annast öll fjármál félagsins og halda bókhald um rekstur félagsins og skila ársreikningi á aðalfundi. Hann skal einnig sjá um útleigu skápa og annarra eigna nörd. Hann skal sjá um sameiginlegan sjóð Félags verkfræðinema til jafns við önnur aðildarfélög.
 
-Skemmtanastjóri: Skemmtanastjóri skal, í samráði við stjórn félagsins, sjá um skipulagningu og framkvæmd alls skemmtanalífs á vegum félagsins, þ.m.t. vísindaferðir. Undantekning á þessari reglu er árshátíð félagsins. Skemmtanastjóri skal skipa skemmtinefnd fyrir lok annar. Skemmtanastjóri skal rita skýrslu skemmtinefndar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu skemmtinefndar.
+#### Skemmtanastjóri
+Skemmtanastjóri skal, í samráði við stjórn félagsins, sjá um skipulagningu og framkvæmd alls skemmtanalífs á vegum félagsins, þ.m.t. vísindaferðir. Undantekning á þessari reglu er árshátíð félagsins. Skemmtanastjóri skal skipa skemmtinefnd fyrir lok annar. Skemmtanastjóri skal rita skýrslu skemmtinefndar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu skemmtinefndar.
 
-Hagsmunafulltrúi: Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
+#### Hagsmunafulltrúi
+Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
 
-Samfélagsmiðill: Hann skal sjá um alla samfélagsmiðla nemendafélagsins Nörd. Hann sér um helstu samskipti við ljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélgasmiðla (t.d. snappari kvöldsins). Hann skal setja reglulega inn færslur á alla helstu miðla Nörd. Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Samfélagsmiðill sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Samfélagsmiðill skal hana yfirumsjón með Ofurnörd ásamt Tvíund.
+#### Samfélagsmiðill
+Hann skal sjá um alla samfélagsmiðla nemendafélagsins Nörd. Hann sér um helstu samskipti við ljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélgasmiðla (t.d. snappari kvöldsins). Hann skal setja reglulega inn færslur á alla helstu miðla Nörd. Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Samfélagsmiðill sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Samfélagsmiðill skal hana yfirumsjón með Ofurnörd ásamt Tvíund.
 
-Nýnemafulltrúi: Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins fyrir 1.árs nemum. Hann skal einnig vera tengiliður 1.árs nema við stjórn félagsins. Kosið skal um þetta embætti eins fljótt og auðið er á hverju ári. Stjórn er heimilt að víkja 1. árs fulltrúa frá störfum að undangenginni viðvörun telji stjórnin hann ekki sinna hlutverki sínu. Stjórn skipar þá nýjan fulltrúa eins fljótt og auðið er.
+#### Nýnemafulltrúi
+Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins fyrir 1.árs nemum. Hann skal einnig vera tengiliður 1.árs nema við stjórn félagsins. Kosið skal um þetta embætti eins fljótt og auðið er á hverju ári. Stjórn er heimilt að víkja 1. árs fulltrúa frá störfum að undangenginni viðvörun telji stjórnin hann ekki sinna hlutverki sínu. Stjórn skipar þá nýjan fulltrúa eins fljótt og auðið er.
 
-Miðstjórn: Miðstjórn félagsins er skipuð af Íþróttafulltrúa, Alþjóðafulltrúa, Hirðljósmyndurum, Kynningarnefnd og forseta Myndbandanefndar. Miðstjórn félagsins er skylt að vera meðlimir í Nörd en hún þarf þó ekki að greiða nema helming félagsgjaldsins svo lengi sem viðkomandi sinnir embættinu.
+#### Miðstjórn
+Miðstjórn félagsins er skipuð af Íþróttafulltrúa, Alþjóðafulltrúa, Hirðljósmyndurum, Kynningarnefnd og forseta Myndbandanefndar. Miðstjórn félagsins er skylt að vera meðlimir í Nörd en hún þarf þó ekki að greiða nema helming félagsgjaldsins svo lengi sem viðkomandi sinnir embættinu.
 
-Íþróttafulltrúar: Íþróttafulltrúar skulu vera tveir. Þeir stuðla  að áhuga "heilsusamlegrar" hreyfingar félagsmanna Nörd. Þeir koma að skipulagningu og framkvæmd keppnis- og íþróttaviðburða eins og t.d. hina árlegu miðnætur Esjugöngu. Íþróttafulltrúar skulu koma að þáttöku félagsins í Nýnemamóti SHÍ í fótbolta ásamt því að stuðla að þáttöku Nörda í íþróttaviðburðum sem kunnu vera haldnir innan háskólasamfélagsins. Íþróttafulltrúar skulu sjá um að halda íþróttaviðburði a.m.k. einu sinni á önn. Hvort sem það er fótbolta-, badminton-, eða rafíþróttamót ofan á föstu íþróttaviðburðina sem nú þegar eru til staðar, svo sem hina árlegu Esjugöngu. Einnig er á þeirra ábyrgð að undirbúa Nörda fyrir Ofurnörd, t.d. Með rafíþróttamóti. Íþróttafulltrúar í samræmi við stjórn skulu halda eitt LAN á ári.
+#### Íþróttafulltrúar
+Íþróttafulltrúar skulu vera tveir. Þeir stuðla  að áhuga "heilsusamlegrar" hreyfingar félagsmanna Nörd. Þeir koma að skipulagningu og framkvæmd keppnis- og íþróttaviðburða eins og t.d. hina árlegu miðnætur Esjugöngu. Íþróttafulltrúar skulu koma að þáttöku félagsins í Nýnemamóti SHÍ í fótbolta ásamt því að stuðla að þáttöku Nörda í íþróttaviðburðum sem kunnu vera haldnir innan háskólasamfélagsins. Íþróttafulltrúar skulu sjá um að halda íþróttaviðburði a.m.k. einu sinni á önn. Hvort sem það er fótbolta-, badminton-, eða rafíþróttamót ofan á föstu íþróttaviðburðina sem nú þegar eru til staðar, svo sem hina árlegu Esjugöngu. Einnig er á þeirra ábyrgð að undirbúa Nörda fyrir Ofurnörd, t.d. Með rafíþróttamóti. Íþróttafulltrúar í samræmi við stjórn skulu halda eitt LAN á ári.
 
-Alþjóðafulltrúi: Hlutverk hans er að vera tengiliður félagsins við skiptinema og alþjóðleg samtök sem sýna áhuga á samstarfi við Nörd eða nemendur í hugbúnaðarverkfæði og tölvunarfræði. Einnig skal hann efla tengsl félagsins á alþjóðavísu og vera félaginu til sóma.
+#### Alþjóðafulltrúi
+Hlutverk hans er að vera tengiliður félagsins við skiptinema og alþjóðleg samtök sem sýna áhuga á samstarfi við Nörd eða nemendur í hugbúnaðarverkfæði og tölvunarfræði. Einnig skal hann efla tengsl félagsins á alþjóðavísu og vera félaginu til sóma.
 
-Hirðljósmyndarar: Til að tryggja skjölun heimilda á því að Nörd er besta nemendafélag Háskóla Íslands skulu starfa tveir hirðljósmyndarar. Skal að minnsta kosti annar þeirra mæta á hvern einasta viðburð Nörd og mun þá sá hinn sami sem kemst á téðann viðburð fá tafarlaust skráningu í alla viðburði sem hann sækist eftir. Aðeins einn getur hlotið þann rétt. Ef upp kemur ágreiningur hvor eigi að fá réttinn er það sá sem er á undan að skrá sig á viðburðinn. Ef upp kemur sú staða að hvorugur Hirðljósmyndarinn komist á téðan viðburð, er þeim heimilt að finna staðgengil úr röðum Nörd, sá staðgengill fær þá einnig tafarlaust skráningu á þann viðburð. Hirðljósmyndarar bera ábyrgð á að taka myndir á viðburðum og pósta myndunum á Nörd HÍ síðuna. Hirðljósmyndarar skulu einnig sjá um að prenta út skemmtilegar myndir úr félagslífinu til að hengja upp í aðstöðu Nörd.
+#### Hirðljósmyndarar
+Til að tryggja skjölun heimilda á því að Nörd er besta nemendafélag Háskóla Íslands skulu starfa tveir hirðljósmyndarar. Skal að minnsta kosti annar þeirra mæta á hvern einasta viðburð Nörd og mun þá sá hinn sami sem kemst á téðann viðburð fá tafarlaust skráningu í alla viðburði sem hann sækist eftir. Aðeins einn getur hlotið þann rétt. Ef upp kemur ágreiningur hvor eigi að fá réttinn er það sá sem er á undan að skrá sig á viðburðinn. Ef upp kemur sú staða að hvorugur Hirðljósmyndarinn komist á téðan viðburð, er þeim heimilt að finna staðgengil úr röðum Nörd, sá staðgengill fær þá einnig tafarlaust skráningu á þann viðburð. Hirðljósmyndarar bera ábyrgð á að taka myndir á viðburðum og pósta myndunum á Nörd HÍ síðuna. Hirðljósmyndarar skulu einnig sjá um að prenta út skemmtilegar myndir úr félagslífinu til að hengja upp í aðstöðu Nörd.
 
-Forseti myndbandanefndar: Hann skal skipa fyrir lok annar 1-3 aðila í myndbandanefnd.
+#### Forseti myndbandanefndar
+Hann skal skipa fyrir lok annar 1-3 aðila í myndbandanefnd.
 
-Kynninganefnd: Í kynninganefnd sitja 2 aðilar. Nefndin sér um kynningar á náminu, skipuleggur háskóladaginn, vinnur með öðrum háskólum, sviði- og deild- háskóla íslands og skipuleggur viðburði tengda þessu starfi.
+#### Kynninganefnd
+Í kynninganefnd sitja 2 aðilar. Nefndin sér um kynningar á náminu, skipuleggur háskóladaginn, vinnur með öðrum háskólum, sviði- og deild- háskóla íslands og skipuleggur viðburði tengda þessu starfi.
 
-Forseti útskriftarnefndar: Hann skal sjá um að athuga áhuga útskriftarnema í tölvunarfræði og hugbúnaðarverkfræði fyrir útskriftarferð. Hann sér einnig um útgáfu blaðsins „Kóðinn“ og fjáröflun útskriftarnema fyrir útskriftarferð.
+#### Forseti útskriftarnefndar
+Hann skal sjá um að athuga áhuga útskriftarnema í tölvunarfræði og hugbúnaðarverkfræði fyrir útskriftarferð. Hann sér einnig um útgáfu blaðsins „Kóðinn“ og fjáröflun útskriftarnema fyrir útskriftarferð.
 
-Kerfismeistari: Kerfismeistari fer fyrir kerfisnefnd. Kerfismeistari er ábyrgðarmaður fyrir hugbúnaði félagsins ásamt fulltrúa frá HÍ. Hann sér einnig um rekstur og viðhald heimasíðu félagsins, nord.is. Ef enginn kerfismeistari er kjörinn á aðalfundi fellur ábyrgðarsvið hans á forseta félagsins. Ef svo ber til, má forseti tilnefna kerfismeistari hvenær sem er ársins með samþykki stjórnar.
+#### Kerfismeistari
+Kerfismeistari fer fyrir kerfisnefnd. Kerfismeistari er ábyrgðarmaður fyrir hugbúnaði félagsins ásamt fulltrúa frá HÍ. Hann sér einnig um rekstur og viðhald heimasíðu félagsins, nord.is. Ef enginn kerfismeistari er kjörinn á aðalfundi fellur ábyrgðarsvið hans á forseta félagsins. Ef svo ber til, má forseti tilnefna kerfismeistari hvenær sem er ársins með samþykki stjórnar.
 
 ###    2. mgr.
 Nefndir félagsins eru eftirfarandi:
-Kerfisnefnd: Í kerfisnefnd sitja sjálfboðaliðar og er framboð í nefndina frjálst allt árið. Undir verkefni kerfisnefndar falla meðal annars umsjón með vélbúnaði félagsins ásamt vefsíðu þess og öðrum vefsíðum er félagið tekur greiðslu fyrir að reka. Önnur verkefni kerfisnefndar fara eftir aðstæðum hverju sinni.
 
-Myndbandanefnd: Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræði- og hugbúnaðarverkfræðideild fyrir nýnemadaga Háskóla Íslands.  Einnig skal hann, í samvinnu við aðildarfélög FV, sjá um upptökur af félagslífi deildarinnar og vinnur að gerð árshátíðarmyndbands FV. Nefndin skal sjá um upptökur á Ofurnörd og gerð á sérstöku Ofurnörd-myndbandi. Nefndin skal einnig sjá um gerð á árshátíðarmyndbandi fyrir árshátíð Nörd. Nefndin hefur frelsi í verkefnavali að öðru leiti.
+#### Kerfisnefnd
+Í kerfisnefnd sitja sjálfboðaliðar og er framboð í nefndina frjálst allt árið. Undir verkefni kerfisnefndar falla meðal annars umsjón með vélbúnaði félagsins ásamt vefsíðu þess og öðrum vefsíðum er félagið tekur greiðslu fyrir að reka. Önnur verkefni kerfisnefndar fara eftir aðstæðum hverju sinni.
 
-Árshátíðarnefnd: 3-5 manna nefnd sem skal í samráði við stjórn hjálpa til við að skipuleggja og undirbúa árshátíð Nörd.
+#### Myndbandanefnd
+Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræði- og hugbúnaðarverkfræðideild fyrir nýnemadaga Háskóla Íslands.  Einnig skal hann, í samvinnu við aðildarfélög FV, sjá um upptökur af félagslífi deildarinnar og vinnur að gerð árshátíðarmyndbands FV. Nefndin skal sjá um upptökur á Ofurnörd og gerð á sérstöku Ofurnörd-myndbandi. Nefndin skal einnig sjá um gerð á árshátíðarmyndbandi fyrir árshátíð Nörd. Nefndin hefur frelsi í verkefnavali að öðru leiti.
 
-Skemmtinefnd: Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar.
+#### Árshátíðarnefnd
+3-5 manna nefnd sem skal í samráði við stjórn hjálpa til við að skipuleggja og undirbúa árshátíð Nörd.
+
+#### Skemmtinefnd
+Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar.
 
 ## 6. gr. Lög um útskriftarnefnd
 
@@ -238,6 +259,7 @@ Innan Nörd starfar riddararegla Nörd. Allir núverandi stjórnarmeðlimir og f
 Allir meðlimir riddarareglunnar hafa þau völd að geta beðið aðra félagsmenn í Nörd , sem eru ekki í riddarareglunni, að svala þorsta sínum með því að ná í veigar eða draga úr hungrinu með því að ná í matvæli. Þessi völd ríkja aðeins á meðan atburður á vegum nemendafélagsins stendur yfir.
 
 ## 15. gr. Lög um skráningu á viðburði
+
 ###    1. mgr.
 Fyrir atburði á vegum Nörd sem hafa fjöldatakmarkanir, skal halda utan um skráningu félaga á atburðinn. Skráningin skal fara fram á vef Nörd, með pósti eða öðrum hætti sem stjórn ákveður hverju sinni. Aðeins þeir sem eru skráðir á atburðinn mega mæta á hann. Þeir sem skrá sig eftir að sætin eru full fara á biðlista, og ef félagi skráir sig úr atburðinum, færast þeir á biðlistanum upp. Stjórn Nörd skal setja skýr tímamörk um hvenær skráning hefst, og hvenær henni lýkur. Ekki er hægt að skrá sig úr eða í atburðinn utan þess tíma.
 
