@@ -172,7 +172,7 @@ Komi upp sú staða að viðkomandi hafi ekki fengið formlega áminningu þá s
 Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
 
 ##    2. mgr.
-Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar  ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samfélaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
+Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samféSlaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
 
 ##    3. mgr.
 Rétt til fundarsetu hafa allir þeir sem skráðir eru í tölvunarfræði og hugbúnaðarverkfræði við Háskóla Íslands eða eru meðlimir skráðir í Nörd en atkvæðisbærir skulu þeir einir teljast sem skráðir eru í Nörd. Þeir einir hafa leyfi til að bjóða sig fram í embætti sem skráðir eru í félagið.
