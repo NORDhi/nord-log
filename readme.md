@@ -80,7 +80,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
 - [14. gr. Tímabil stærri viðburða](#14-gr-tímabil-stærri-viðburða)
   - [1. mgr. Bil milli Árshátíðar Nörd og Ofurnörd](#1-mgr-bil-milli-árshátíðar-nörd-og-ofurnörd)
   - [2. mgr. Árshátíð Nörd](#2-mgr-árshátíð-nörd)
-- [15. gr. Skráningu á viðburði](#15-gr-skráningu-á-viðburði)
+- [15. gr. Skráning á viðburði](#15-gr-skráning-á-viðburði)
   - [1. mgr. Skráning](#1-mgr-skráning)
   - [2. mgr. Vísóbönn](#2-mgr-vísóbönn)
   - [3. mgr. Forföll](#3-mgr-forföll)
@@ -366,7 +366,7 @@ Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er
 ##    2. mgr. Árshátíð Nörd
 Árshátíð Nörd skal vera haldin á haustönn hvers árs. Þetta er til þess að álag sé minna vegna árshátíðar FV á vorönn.
 
-# 15. gr. Skráningu á viðburði
+# 15. gr. Skráning á viðburði
 
 ##    1. mgr. Skráning
 Fyrir atburði á vegum Nörd sem hafa fjöldatakmarkanir, skal halda utan um skráningu félaga á atburðinn. Skráningin skal fara fram á vef Nörd, með pósti eða öðrum hætti sem stjórn ákveður hverju sinni. Aðeins þeir sem eru skráðir á atburðinn mega mæta á hann. Þeir sem skrá sig eftir að sætin eru full fara á biðlista, og ef félagi skráir sig úr atburðinum, færast þeir á biðlistanum upp. Stjórn Nörd skal setja skýr tímamörk um hvenær skráning hefst, og hvenær henni lýkur. Ekki er hægt að skrá sig úr eða í atburðinn utan þess tíma.
