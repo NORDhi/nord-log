@@ -4,19 +4,39 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
 - [1. gr. Nafn félagsins](#1-gr-nafn-félagsins)
 - [2. gr. Varnarþing félagsins](#2-gr-varnarþing-félagsins)
 - [3. gr. Upplýsingar um félagið](#3-gr-upplýsingar-um-félagið)
-- [4. gr. Lög um aðalfund félagsins](#4-gr-lög-um-aðalfund-félagsins)
-- [5. gr. Embætti](#5-gr-embætti)
-- [6. gr. Lög um útskriftarnefnd](#6-gr-lög-um-útskriftarnefnd)
-- [7. gr. Lög um hvenær ný embætti taka gildi](#7-gr-lög-um-hvenær-ný-embætti-taka-gildi)
-- [8. gr. Lög um aðild að félaginu](#8-gr-lög-um-aðild-að-félaginu)
-- [9. gr. Ef félagið skuli vera lagt niður](#9-gr-ef-félagið-skuli-vera-lagt-niður)
-- [10. gr. Lög varðandi lög félagsins](#10-gr-lög-varðandi-lög-félagsins)
-- [11. gr. Lög um miðstjórn félagsins](#11-gr-lög-um-miðstjórn-félagsins)
-- [12. gr. Jafnréttislög félagsins](#12-gr-jafnréttislög-félagsins)
+- [4. gr. Ef félagið skuli vera lagt niður](#4-gr-ef-félagið-skuli-vera-lagt-niður)
+- [5. gr. Lög varðandi lög félagsins](#5-gr-lög-varðandi-lög-félagsins)
+- [6. gr. Jafnréttislög félagsins](#6-gr-jafnréttislög-félagsins)
+- [7. gr. Lög um aðild að félaginu](#7-gr-lög-um-aðild-að-félaginu)
+- [8. gr. Lög um aðalfund félagsins](#8-gr-lög-um-aðalfund-félagsins)
+- [9. gr. Embætti](#9-gr-embætti)
+    - [Stjórn](#stjórn)
+    - [Forseti](#forseti)
+    - [Ritari](#ritari)
+    - [Gjaldkeri](#gjaldkeri)
+    - [Skemmtanastjóri](#skemmtanastjóri)
+    - [Hagsmunafulltrúi](#hagsmunafulltrúi)
+    - [Samfélagsmiðill](#samfélagsmiðill)
+    - [Nýnemafulltrúi](#nýnemafulltrúi)
+    - [Miðstjórn](#miðstjórn)
+    - [Íþróttafulltrúar](#íþróttafulltrúar)
+    - [Alþjóðafulltrúi](#alþjóðafulltrúi)
+    - [Hirðljósmyndarar](#hirðljósmyndarar)
+    - [Forseti myndbandanefndar](#forseti-myndbandanefndar)
+    - [Kynninganefnd](#kynninganefnd)
+    - [Forseti útskriftarnefndar](#forseti-útskriftarnefndar)
+    - [Kerfismeistari](#kerfismeistari)
+    - [Kerfisnefnd](#kerfisnefnd)
+    - [Myndbandanefnd](#myndbandanefnd)
+    - [Árshátíðarnefnd](#árshátíðarnefnd)
+    - [Skemmtinefnd](#skemmtinefnd)
+- [10. gr. Lög um hvenær ný embætti taka gildi](#10-gr-lög-um-hvenær-ný-embætti-taka-gildi)
+- [11. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar](#11-gr-lög-um-vantrausttillögur-á-sitjandi-meðlimi-stjórnar)
+- [12. gr. Lög um miðstjórn félagsins](#12-gr-lög-um-miðstjórn-félagsins)
 - [13. gr. Lög um upplýsingamiðlun félagsins](#13-gr-lög-um-upplýsingamiðlun-félagsins)
-- [14. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar](#14-gr-lög-um-vantrausttillögur-á-sitjandi-meðlimi-stjórnar)
+- [14. gr. Lög um tímabil stærri viðburða](#14-gr-lög-um-tímabil-stærri-viðburða)
 - [15. gr. Lög um skráningu á viðburði](#15-gr-lög-um-skráningu-á-viðburði)
-- [16. gr. Lög um tímabil stærri viðburða](#16-gr-lög-um-tímabil-stærri-viðburða)
+- [16. gr. Lög um útskriftarnefnd](#16-gr-lög-um-útskriftarnefnd)
 - [17. gr. Lög um Stór Árshátíðina Nörd](#17-gr-lög-um-stór-árshátíðina-nörd)
 - [18. gr. Lög um hóp fyrrum meðlima “Ég var einu sinni Nörd”](#18-gr-lög-um-hóp-fyrrum-meðlima-ég-var-einu-sinni-nörd)
 
@@ -39,13 +59,52 @@ Tilgangur félagsins er að gæta hagsmuna félagsmanna og halda uppi skemmtanal
 ##    2. mgr.
 Nörd er aðildafélag að Félagi verkfræðinema (FV) og heyrir undir lög þess. Félagsmenn Nörd öðlast sjálfkrafa aðild að FV. Nörd er einnig aðili að NáttVerk, hagsmunasamtökum nemenda við Verkfræði- og náttúruvísindasvið (VON).
 
-# 4. gr. Lög um aðalfund félagsins
+# 4. gr. Ef félagið skuli vera lagt niður
+
+##    1. mgr.
+Verði félagið lagt niður, skulu allar eignir þess fara til FV; verði það ekki við lýði skulu eignir seldar og allt fjármagn félagsins að því loknu fara til Ský, Skýrslutæknifélag Íslands (kt.480870-0189).
+
+# 5. gr. Lög varðandi lög félagsins
+
+##    1. mgr.
+Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum til lagabreytinga skilað til forseta í síðasta lagi þremur sólarhringum fyrir aðalfund og skal stjórnin sýna félagsmönnum innsendar breytingartillögur svo fljótt sem auðið er. Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna. Kosning í embætti skal vera leynileg sé þess óskað af einhverjum atkvæðisbærum fundaraðila.
+
+##    2. mgr.
+Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er, án þess að þurfa samþykki félaga. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd. Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
+
+# 6. gr. Jafnréttislög félagsins
+
+##    1. mgr.
+Nemendafélagið skal í hvívetna virða grundvallarreglu stjórnarskrá lýðveldisins Íslands um frelsi einstaklingsins. Allir nemendur skulu vera jafnir og njóta sömu réttinda án tillits til kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti.
+
+##    2. mgr.
+Brot gegn ákvæði 1. mgr.
+getur leitt til brottrekstrar úr nemendafélaginu.
+
+# 7. gr. Lög um aðild að félaginu
+
+##    1. mgr.
+Rétt til inngöngu í félagið eiga allir þeir stúdentar sem stunda nám við Tölvunarfræði eða Hugbúnaðarverkfræði í Háskóla Íslands. Þeir sem hafa beina hagsmuni að félaginu en eru ekki skráðir í framangreint nám eiga möguleika á inngöngu í félagið með samþykki stjórnar. Löglegir félagsmenn teljast allir þeir sem greitt hafa félagsgjöld á viðkomandi skólaári.
+
+##    2. mgr.
+Stjórn nemendafélagsins má synja nemanda um inngöngu í nemendafélagið ef stjórnin er einróma samþykk þess að gera það. Þeim nemenda skal færður rökstuðningur fyrir ákvörðuninni innan 3 daga frá ákvörðun stjórnar. Sá nemandi getur krafist kosningar meðal félaga Nörd um að aflétta synjuninni, hagsmunafulltrúi Nörd ber ábyrgð á því að koma málinu til hagsmunafulltrúa shí sem framfylgir málinu. Þegar að félagi er látið vita að viðkomandi sé synjað þá skal stjórn nörd vera bent á það að viðkomandi getur leitað til réttindarskrifstofu stúdentaráðs háskóla Íslands.
+
+##    3. mgr.
+Stjórn nemendafélagsins getur vikið meðlimi félagsins úr því þá og því aðeins að stjórnin samþykki brottvísunina einróma. Tilkynna skal meðliminum um brottvísunina innan 2 daga frá ákvörðun og skal fylgja rökstuðningur frá stjórn nemendafélagsins fyrir brottvísunina. Greiða skal hluta nemendafélagsgjaldsins til baka við brottvísunina úr félaginu. Ef meðlimurinn safnar undirskrifta ⅖ meðlima nemendafélagsins þá skal brottvísunin tekinn til baka og má aðilinn greiða félaginu aftur nemendafélagsgjaldið sem honum var greitt til baka og gerast meðlimur Nörd.
+
+##    4. mgr.
+Hafi viðkomandi fengið formlega áminningu áður á skólaárinu skal stjórn kjósa um brottvísun á viðkomandi við fyrsta tækifæri og honum tilkynnt um það ferli. Viðkomandi getur þá leitað til réttindaskrifstofu stúdentaráðs háskóla Íslands. Sama ferli skal fylgja með synjun og brottrekstri.
+
+##    5. mgr.
+Komi upp sú staða að viðkomandi hafi ekki fengið formlega áminningu þá skal stjórn ráðfæra sig við réttindaskrifstofu stúdentaráðs háskóla Íslands áður en hún tekur ákvörðun um brottvísun. Viðkomandi félagsmeðlim skal þá vera upplýstur um ferli málsins.
+
+# 8. gr. Lög um aðalfund félagsins
 
 ##    1. mgr.
 Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
 
 ##    2. mgr.
-Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar  ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samfélaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
+Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samféSlaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
 
 ##    3. mgr.
 Rétt til fundarsetu hafa allir þeir sem skráðir eru í tölvunarfræði og hugbúnaðarverkfræði við Háskóla Íslands eða eru meðlimir skráðir í Nörd en atkvæðisbærir skulu þeir einir teljast sem skráðir eru í Nörd. Þeir einir hafa leyfi til að bjóða sig fram í embætti sem skráðir eru í félagið.
@@ -103,7 +162,7 @@ Laga.
 Stjórn félagsins má boða til aukafundar ef hún telur þörf til þess. Meðlimir nemendafélagsins geta einnig krafist aukafundar ef ⅕ meðlima félagsins skrifa undir undirskriftarlista um þess efnis. Boðað skal til fundar með tölvupósti til allra nemenda í tölvunarfræði og hugbúnaðarverkfræði innan viku frá þess að meðlimir krefjast hans og skal hann vera haldin innan 3 vikna frá því að boðað er til hans.
 Á aukafundinum má taka fyrir lagabreytingatillögur og kosningar í embætti ef einhver embætti standa auð. Lagabreytingatillögur og framboð til embættis skulu berast formanni a.m.k. 3 dögum fyrir aukafundinn. Til að lagabreytingatillögur séu samþykktar skulu greidd ⅔ atkvæða með henni. Sá sem hlýtur flest atkvæði í embættiskosningu sigrar og tekur við embætti sínu samstundis. Á aukafundi gilda 4. gr.7.mgr og 4. gr.8.mgr laga um kosningar ásamt 4. gr.2.mgr um fundarseturétt og kosningarétt.
         
-# 5. gr. Embætti
+# 9. gr. Embætti
 
 ##    1. mgr.
 Embætti félagsins eru eftirfarandi:
@@ -171,93 +230,12 @@ Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræð
 ### Skemmtinefnd
 Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar.
 
-# 6. gr. Lög um útskriftarnefnd
-
-##    1. mgr.
-Öll sú fjáröflun nefndarinnar sem fer fram fyrir útskriftarferðina sé á vegum félagsins og í nafni félagsins.
-
-##    2. mgr.
-Í því tilfelli að ekki er hægt að halda útskriftarferð, skal gjaldkeri félagsins, innan tveggja vikna, skipta söfnuðu fjármagni jafnt milli allra meðlima nefndarinnar sem tekið hafa þátt í fjáröflun fyrir nefndina.
-
-##    3. mgr.
-Ef meira en ár er liðið síðan nefndin var sett eða ef félagið hefur kosið í nýja nefnd á nýju námsári, og útskriftarferð ekki ennþá verið haldin, skal fjármagnið nefndarinnar einnig vera skipt eins og í fyrri málsgrein.
-
-##    4. mgr.
-Ef nefndin vil skipta fjármagninu ójafnt skal það vera samþykkt einróma meðal meðlima nefndarinnar.
-
-##    5. mgr.
-Útskriftarnefndin fjármagnar útskriftarferð með útgáfu tímaritsins “Kóðinn”. Í því tilfelli að nefndin hefur safnað styrkjum eða fjármagni fyrir blaðinu en ekki tekst að gefa það út skulu þeir styrkir eða fjármagn vera skilað til þeirra aðila sem styrktu eða fjármögnuðu blaðið. Ef ekki tekst að skila fjármagninu eða styrkjum skal það renna til félagsins.
-
-##    6. mgr.
-Útskriftarnefndin skal vera ætluð útskriftarnemum sem skilgreindir skulu vera sem nemendur sem útskrifast munu á næstu tveimur misserum frá stofnun nefndarinnar, núverandi önn meðtöldu, eða sem hafa útskrifast á síðustu önn og ekki farið í útskriftarferð með síðustu útskriftarnefnd.
-
-##    7. mgr.
-Útskriftarnemar skulu fá forgang inn í nefndina. Nefndin skal vera samansett af að hámarki 15 manns og er einungis leyft þeim aðilum sem ekki eru úrskriftarnemar ef hámarkið hefur ekki verið uppfyllt. Hámarkið skal hins vegar ekki vera heilagt og ef fleiri útskriftarnemar vilja ganga inn í nefndina skal það vera leyft. Nemendur ekki á útskriftarári eða sem eru ekki útskriftarnemar mega samt koma með í útskríftarferðina.
-
-# 7. gr. Lög um hvenær ný embætti taka gildi
+# 10. gr. Lög um hvenær ný embætti taka gildi
 
 ##    1. mgr.
 Öll embætti félagsins, að nýnemafulltrúa undanskildum, öðlast gildi strax að aðalfundi loknum.
 
-# 8. gr. Lög um aðild að félaginu
-
-##    1. mgr.
-Rétt til inngöngu í félagið eiga allir þeir stúdentar sem stunda nám við Tölvunarfræði eða Hugbúnaðarverkfræði í Háskóla Íslands. Þeir sem hafa beina hagsmuni að félaginu en eru ekki skráðir í framangreint nám eiga möguleika á inngöngu í félagið með samþykki stjórnar. Löglegir félagsmenn teljast allir þeir sem greitt hafa félagsgjöld á viðkomandi skólaári.
-
-##    2. mgr.
-Stjórn nemendafélagsins má synja nemanda um inngöngu í nemendafélagið ef stjórnin er einróma samþykk þess að gera það. Þeim nemenda skal færður rökstuðningur fyrir ákvörðuninni innan 3 daga frá ákvörðun stjórnar. Sá nemandi getur krafist kosningar meðal félaga Nörd um að aflétta synjuninni, hagsmunafulltrúi Nörd ber ábyrgð á því að koma málinu til hagsmunafulltrúa shí sem framfylgir málinu. Þegar að félagi er látið vita að viðkomandi sé synjað þá skal stjórn nörd vera bent á það að viðkomandi getur leitað til réttindarskrifstofu stúdentaráðs háskóla Íslands.
-
-##    3. mgr.
-Stjórn nemendafélagsins getur vikið meðlimi félagsins úr því þá og því aðeins að stjórnin samþykki brottvísunina einróma. Tilkynna skal meðliminum um brottvísunina innan 2 daga frá ákvörðun og skal fylgja rökstuðningur frá stjórn nemendafélagsins fyrir brottvísunina. Greiða skal hluta nemendafélagsgjaldsins til baka við brottvísunina úr félaginu. Ef meðlimurinn safnar undirskrifta ⅖ meðlima nemendafélagsins þá skal brottvísunin tekinn til baka og má aðilinn greiða félaginu aftur nemendafélagsgjaldið sem honum var greitt til baka og gerast meðlimur Nörd.
-
-##    4. mgr.
-Hafi viðkomandi fengið formlega áminningu áður á skólaárinu skal stjórn kjósa um brottvísun á viðkomandi við fyrsta tækifæri og honum tilkynnt um það ferli. Viðkomandi getur þá leitað til réttindaskrifstofu stúdentaráðs háskóla Íslands. Sama ferli skal fylgja með synjun og brottrekstri.
-
-##    5. mgr.
-Komi upp sú staða að viðkomandi hafi ekki fengið formlega áminningu þá skal stjórn ráðfæra sig við réttindaskrifstofu stúdentaráðs háskóla Íslands áður en hún tekur ákvörðun um brottvísun. Viðkomandi félagsmeðlim skal þá vera upplýstur um ferli málsins.
-
-# 9. gr. Ef félagið skuli vera lagt niður
-
-##    1. mgr.
-Verði félagið lagt niður, skulu allar eignir þess fara til FV; verði það ekki við lýði skulu eignir seldar og allt fjármagn félagsins að því loknu fara til Ský, Skýrslutæknifélag Íslands (kt.480870-0189).
-
-# 10. gr. Lög varðandi lög félagsins
-
-##    1. mgr.
-Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum til lagabreytinga skilað til forseta í síðasta lagi þremur sólarhringum fyrir aðalfund og skal stjórnin sýna félagsmönnum innsendar breytingartillögur svo fljótt sem auðið er. Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna. Kosning í embætti skal vera leynileg sé þess óskað af einhverjum atkvæðisbærum fundaraðila.
-
-##    2. mgr.
-Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er, án þess að þurfa samþykki félaga. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd. Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
-
-# 11. gr. Lög um miðstjórn félagsins
-
-##    1. mgr.
-Stjórn nemendafélagsins er heimilt að kalla saman miðstjórn. Miðstjórn samanstendur af Íþróttafulltrúa, Alþjóðafulltrúa, Hirðljósmyndurum, Kynningarnefnd og forseta Myndbandanefndar Að beiðni stjórnar gefur miðstjórn álit sitt á þeim málefnum sem fyrir hana eru lögð.Miðstjórn kemur ekki að ákvarðanatöku.
-
-##    2. mgr.
-Miðstjórn félagsins er skylt að vera meðlimir í Nörd en hún þarf þó ekki að greiða nema helming félagsgjaldsins.
-
-# 12. gr. Jafnréttislög félagsins
-
-##    1. mgr.
-Nemendafélagið skal í hvívetna virða grundvallarreglu stjórnarskrá lýðveldisins Íslands um frelsi einstaklingsins. Allir nemendur skulu vera jafnir og njóta sömu réttinda án tillits til kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti.
-
-##    2. mgr.
-Brot gegn ákvæði 1. mgr.
-getur leitt til brottrekstrar úr nemendafélaginu
-
-# 13. gr. Lög um upplýsingamiðlun félagsins
-
-##    1. mgr.
-Fréttir og aðrar tilkynningar nemendafélagsins skulu undantekningarlaust birtar bæði á íslensku og ensku.
-
-##    2. mgr.
-Samningaaðilar félagsins hvort sem um einkaaðila, fyrirtæki eða stofnanir er að ræða skulu vera nafngreindir á vefsíðu Nörd.
-
-##    3. mgr.
-Stjórn skal viðhalda viðburðadagatali sem er opið félagsmeðlimum til þess að fylgjast með skipulögðum viðburðum fram til lengri tíma með fyrirvara um mögulegar breytingar á staðsetningum, tímasetningum eða jafnvel aflýsingu viðburðar.
-
-# 14. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar
+# 11. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar
 
 ##    1. mgr.
 Stjórn nemendafélagsins getur lýst yfir vantrausti á sitjandi stjórnarmeðlim, að því skilyrði uppfylltu að sammæli sé um það innan stjórnar, að undanskildum þeim stjórnarmeðlim sem vantrausttillögunni er beint gegn.
@@ -278,6 +256,33 @@ Innan Nörd starfar riddararegla Nörd. Allir núverandi stjórnarmeðlimir og f
 
 ##    6. mgr.
 Allir meðlimir riddarareglunnar hafa þau völd að geta beðið aðra félagsmenn í Nörd , sem eru ekki í riddarareglunni, að svala þorsta sínum með því að ná í veigar eða draga úr hungrinu með því að ná í matvæli. Þessi völd ríkja aðeins á meðan atburður á vegum nemendafélagsins stendur yfir.
+
+# 12. gr. Lög um miðstjórn félagsins
+
+##    1. mgr.
+Stjórn nemendafélagsins er heimilt að kalla saman miðstjórn. Miðstjórn samanstendur af Íþróttafulltrúa, Alþjóðafulltrúa, Hirðljósmyndurum, Kynningarnefnd og forseta Myndbandanefndar Að beiðni stjórnar gefur miðstjórn álit sitt á þeim málefnum sem fyrir hana eru lögð.Miðstjórn kemur ekki að ákvarðanatöku.
+
+##    2. mgr.
+Miðstjórn félagsins er skylt að vera meðlimir í Nörd en hún þarf þó ekki að greiða nema helming félagsgjaldsins.
+
+# 13. gr. Lög um upplýsingamiðlun félagsins
+
+##    1. mgr.
+Fréttir og aðrar tilkynningar nemendafélagsins skulu undantekningarlaust birtar bæði á íslensku og ensku.
+
+##    2. mgr.
+Samningaaðilar félagsins hvort sem um einkaaðila, fyrirtæki eða stofnanir er að ræða skulu vera nafngreindir á vefsíðu Nörd.
+
+##    3. mgr.
+Stjórn skal viðhalda viðburðadagatali sem er opið félagsmeðlimum til þess að fylgjast með skipulögðum viðburðum fram til lengri tíma með fyrirvara um mögulegar breytingar á staðsetningum, tímasetningum eða jafnvel aflýsingu viðburðar.
+
+# 14. gr. Lög um tímabil stærri viðburða
+
+##    1. mgr.
+Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er gert til þess að gefa Myndbandanefnd Nörd nægan tíma til að vinna Árshátíðarmyndband Nörd fyrir árshátíðina og veita þeim teinnig nægan tíma til að rækta náms sitt á milli þessara tveggja atburða.
+
+##    2. mgr.
+Árshátíð Nörd skal vera haldin á haustönn hvers árs. Þetta er til þess að álag sé minna vegna árshátíðar FV á vorönn.
 
 # 15. gr. Lög um skráningu á viðburði
 
@@ -311,13 +316,28 @@ Fyrrum meðlimum félagsins er heimilt að vera boðið af stjórninni á viðbu
 ##    10. mgr.
 Í lok vorannar á próflokadjamminu eða síðasta viðburði félagsins á hverju skólaári skal stjórnin gefa út eftirfarandi heiðursnafnbót; Vísó-kóngur/drottning til þeirra aðila sem mæta á sem flestar vísindaferðir haldnar á vegum félagsins á árinu. Slysó-kóngur/drottning til þeirra aðila sem oftast lenda á slysó eða bráðamóttöku eftir vísindaferðir eða aðra viðburði á vegum félagsins, aðilin skal fá pakka af plástrum og hjálm til þess að vera tilbúinn í kvöldið.
 
-# 16. gr. Lög um tímabil stærri viðburða
+# 16. gr. Lög um útskriftarnefnd
 
 ##    1. mgr.
-Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er gert til þess að gefa Myndbandanefnd Nörd nægan tíma til að vinna Árshátíðarmyndband Nörd fyrir árshátíðina og veita þeim teinnig nægan tíma til að rækta náms sitt á milli þessara tveggja atburða.
+Öll sú fjáröflun nefndarinnar sem fer fram fyrir útskriftarferðina sé á vegum félagsins og í nafni félagsins.
 
 ##    2. mgr.
-Árshátíð Nörd skal vera haldin á haustönn hvers árs. Þetta er til þess að álag sé minna vegna árshátíðar FV á vorönn.
+Í því tilfelli að ekki er hægt að halda útskriftarferð, skal gjaldkeri félagsins, innan tveggja vikna, skipta söfnuðu fjármagni jafnt milli allra meðlima nefndarinnar sem tekið hafa þátt í fjáröflun fyrir nefndina.
+
+##    3. mgr.
+Ef meira en ár er liðið síðan nefndin var sett eða ef félagið hefur kosið í nýja nefnd á nýju námsári, og útskriftarferð ekki ennþá verið haldin, skal fjármagnið nefndarinnar einnig vera skipt eins og í fyrri málsgrein.
+
+##    4. mgr.
+Ef nefndin vil skipta fjármagninu ójafnt skal það vera samþykkt einróma meðal meðlima nefndarinnar.
+
+##    5. mgr.
+Útskriftarnefndin fjármagnar útskriftarferð með útgáfu tímaritsins “Kóðinn”. Í því tilfelli að nefndin hefur safnað styrkjum eða fjármagni fyrir blaðinu en ekki tekst að gefa það út skulu þeir styrkir eða fjármagn vera skilað til þeirra aðila sem styrktu eða fjármögnuðu blaðið. Ef ekki tekst að skila fjármagninu eða styrkjum skal það renna til félagsins.
+
+##    6. mgr.
+Útskriftarnefndin skal vera ætluð útskriftarnemum sem skilgreindir skulu vera sem nemendur sem útskrifast munu á næstu tveimur misserum frá stofnun nefndarinnar, núverandi önn meðtöldu, eða sem hafa útskrifast á síðustu önn og ekki farið í útskriftarferð með síðustu útskriftarnefnd.
+
+##    7. mgr.
+Útskriftarnemar skulu fá forgang inn í nefndina. Nefndin skal vera samansett af að hámarki 15 manns og er einungis leyft þeim aðilum sem ekki eru úrskriftarnemar ef hámarkið hefur ekki verið uppfyllt. Hámarkið skal hins vegar ekki vera heilagt og ef fleiri útskriftarnemar vilja ganga inn í nefndina skal það vera leyft. Nemendur ekki á útskriftarári eða sem eru ekki útskriftarnemar mega samt koma með í útskríftarferðina.
 
 # 17. gr. Lög um Stór Árshátíðina Nörd
 
