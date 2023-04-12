@@ -14,6 +14,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [1. mgr. Breytingar á Lögum](#1-mgr-breytingar-á-lögum)
   - [2. mgr. Sammþykkt lagabreytinga](#2-mgr-sammþykkt-lagabreytinga)
   - [3. mgr. Heimild Stjórnar](#3-mgr-heimild-stjórnar)
+  - [4 mgr. Kvörtun við breytingu](#4-mgr-kvörtun-við-breytingu)
 - [6. gr. Jafnréttislög félagsins](#6-gr-jafnréttislög-félagsins)
   - [1. mgr. Grundvallareglur jafnréttis](#1-mgr-grundvallareglur-jafnréttis)
   - [2. mgr. Brot á jafnréttislögum](#2-mgr-brot-á-jafnréttislögum)
@@ -145,7 +146,10 @@ Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum
 Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna.
 
 ##    3. mgr. Heimild Stjórnar
-Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er, án þess að þurfa samþykki félaga. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd. Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
+Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er. Tilkynna skal allar slíkar breytingar opinberlega fyrir meðlimum Nörd. 
+
+##    4 mgr. Kvörtun við breytingu
+Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
 
 # 6. gr. Jafnréttislög félagsins
 
