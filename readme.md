@@ -141,6 +141,7 @@ Miðstjórn félagsins er skipuð af Íþróttafulltrúa, Alþjóðafulltrúa, H
 ### Alþjóðafulltrúi
 Hlutverk hans er að vera tengiliður félagsins við skiptinema og alþjóðleg samtök sem sýna áhuga á samstarfi við Nörd eða nemendur í hugbúnaðarverkfæði og tölvunarfræði. Einnig skal hann efla tengsl félagsins á alþjóðavísu og vera félaginu til sóma.
 
+
 ### Hirðljósmyndarar
 Til að tryggja skjölun heimilda á því að Nörd er besta nemendafélag Háskóla Íslands skulu starfa tveir hirðljósmyndarar. Skal að minnsta kosti annar þeirra mæta á hvern einasta viðburð Nörd og mun þá sá hinn sami sem kemst á téðann viðburð fá tafarlaust skráningu í alla viðburði sem hann sækist eftir. Aðeins einn getur hlotið þann rétt. Ef upp kemur ágreiningur hvor eigi að fá réttinn er það sá sem er á undan að skrá sig á viðburðinn. Ef upp kemur sú staða að hvorugur Hirðljósmyndarinn komist á téðan viðburð, er þeim heimilt að finna staðgengil úr röðum Nörd, sá staðgengill fær þá einnig tafarlaust skráningu á þann viðburð. Hirðljósmyndarar bera ábyrgð á að taka myndir á viðburðum og pósta myndunum á Nörd HÍ síðuna. Hirðljósmyndarar skulu einnig sjá um að prenta út skemmtilegar myndir úr félagslífinu til að hengja upp í aðstöðu Nörd.
 
@@ -169,8 +170,9 @@ Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræð
 3-5 manna nefnd sem skal í samráði við stjórn hjálpa til við að skipuleggja og undirbúa árshátíð Nörd.
 
 ### Skemmtinefnd
-Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar.
-
+Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar. Í nefndinni skal einnig sitja Bíóstjóri. Hlutverk Bíóstjórans er að sjá um vikuleg bíókvöld sem eru haldin á þriðjudögum og er viðstaddur. Ef svo kynni að Bíóstjóri sé fjarverandi, má Bíóstjóri hafa samband við aðilana í skemmtinefnd sem leysir Bíóstjóran af. 
+ 
+ 
 # 6. gr. Lög um útskriftarnefnd
 
 ##    1. mgr.
