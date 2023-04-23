@@ -70,7 +70,10 @@ Verði félagið lagt niður, skulu allar eignir þess fara til FV; verði það
 Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum til lagabreytinga skilað til forseta í síðasta lagi þremur sólarhringum fyrir aðalfund og skal stjórnin sýna félagsmönnum innsendar breytingartillögur svo fljótt sem auðið er. Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna. Kosning í embætti skal vera leynileg sé þess óskað af einhverjum atkvæðisbærum fundaraðila.
 
 ##    2. mgr.
-Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er, án þess að þurfa samþykki félaga. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd. Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
+Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd.
+
+##    3. mrgr.
+Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
 
 # 6. gr. Jafnréttislög félagsins
 
