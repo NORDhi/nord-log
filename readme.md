@@ -14,7 +14,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [1. mgr. Breytingar á Lögum](#1-mgr-breytingar-á-lögum)
   - [2. mgr. Sammþykkt lagabreytinga](#2-mgr-sammþykkt-lagabreytinga)
   - [3. mgr. Heimild Stjórnar](#3-mgr-heimild-stjórnar)
-  - [4 mgr. Kvörtun við breytingu](#4-mgr-kvörtun-við-breytingu)
+  - [4. mgr. Kvörtun við breytingu](#4-mgr-kvörtun-við-breytingu)
 - [6. gr. Jafnréttislög félagsins](#6-gr-jafnréttislög-félagsins)
   - [1. mgr. Grundvallareglur jafnréttis](#1-mgr-grundvallareglur-jafnréttis)
   - [2. mgr. Brot á jafnréttislögum](#2-mgr-brot-á-jafnréttislögum)
@@ -142,13 +142,13 @@ Verði félagið lagt niður, skulu allar eignir þess fara til FV; verði það
 ##    1. mgr. Breytingar á Lögum
 Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum til lagabreytinga skilað til forseta í síðasta lagi þremur sólarhringum fyrir aðalfund og skal stjórnin sýna félagsmönnum innsendar breytingartillögur svo fljótt sem auðið er. 
 
-##    2. mgr. Sammþykkt lagabreytinga
+##    2. mgr. Samþykkt lagabreytinga
 Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna.
 
 ##    3. mgr. Heimild Stjórnar
 Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er. Tilkynna skal allar slíkar breytingar opinberlega fyrir meðlimum Nörd. 
 
-##    4 mgr. Kvörtun við breytingu
+##    4. mgr. Kvörtun við breytingu
 Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
 
 # 6. gr. Jafnréttislög félagsins
@@ -277,8 +277,8 @@ Skemmtanastjóri skal, í samráði við stjórn félagsins, sjá um skipulagnin
 ### Hagsmunafulltrúi
 Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
 
-### Samfélagsmiðill
-Hann skal sjá um alla samfélagsmiðla nemendafélagsins Nörd. Hann sér um helstu samskipti við ljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélgasmiðla (t.d. snappari kvöldsins). Hann skal setja reglulega inn færslur á alla helstu miðla Nörd. Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Samfélagsmiðill sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Samfélagsmiðill skal hana yfirumsjón með Ofurnörd ásamt Tvíund.
+### Upplýsingafulltrúi
+Hann skal hafa yfirsýn yfir öllum samfélagsmiðlum nemendafélagsins Nörd og þjóna sem grafískur hönnuður nemendafélagsins. Hann sér um helstu samskipti við hirðljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélgasmiðla (t.d. snappari kvöldsins). Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsingarfulltrúi sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Upplýsingafulltrúi skal hafa yfirumsjón með Ofurnörd ásamt Tvíund.
 
 ### Nýnemafulltrúi
 Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins fyrir 1.árs nemum. Hann skal einnig vera tengiliður 1.árs nema við stjórn félagsins. Kosið skal um þetta embætti eins fljótt og auðið er á hverju ári. Stjórn er heimilt að víkja 1. árs fulltrúa frá störfum að undangenginni viðvörun telji stjórnin hann ekki sinna hlutverki sínu. Stjórn skipar þá nýjan fulltrúa eins fljótt og auðið er.
