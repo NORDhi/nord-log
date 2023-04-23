@@ -30,7 +30,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [3. mgr. Fundarseta og atkvæði](#3-mgr-fundarseta-og-atkvæði)
   - [4. mgr. Dagskrá](#4-mgr-dagskrá)
   - [5. mgr. Röð embætta til kosninga](#5-mgr-röð-embætta-til-kosninga)
-  - [6. mgr. Leinileg kostning](#6-mgr-leinileg-kostning)
+  - [6. mgr. Leynileg kostning](#6-mgr-leynileg-kostning)
   - [7. mgr. Framboð til stjórnar](#7-mgr-framboð-til-stjórnar)
   - [8. mgr. Fjöldi embætta á hvern einstakling innan stjórnar](#8-mgr-fjöldi-embætta-á-hvern-einstakling-innan-stjórnar)
   - [9. mgr. Afsögn stjórnarmeðlims](#9-mgr-afsögn-stjórnarmeðlims)
@@ -146,7 +146,7 @@ Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum
 Til samþykktar lagabreytingum þarf atkvæði 2/3 fundarmanna.
 
 ##    3. mgr. Heimild Stjórnar
-Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er. Tilkynna skal allar slíkar breytingar opinberlega fyrir félögum Nörd.
+Stjórn Nörd hefur heimild til að breyta uppröðun laga hvenær sem er. Stjórn hefur einnig heimild til að lagfæra augljósar stafsetningar- og innsláttarvillur hvenær sem er. Tilkynna skal allar slíkar breytingar opinberlega fyrir meðlimum Nörd. 
 
 ##    4. mgr. Kvörtun við breytingu
 Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal viðkomandi málsgrein þegar færð í fyrra horf.
@@ -169,7 +169,7 @@ Rétt til inngöngu í félagið eiga allir þeir stúdentar sem stunda nám vi�
 Stjórn nemendafélagsins má synja nemanda um inngöngu í nemendafélagið ef stjórnin er einróma samþykk þess að gera það. Þeim nemenda skal færður rökstuðningur fyrir ákvörðuninni innan 3 daga frá ákvörðun stjórnar. Sá nemandi getur krafist kosningar meðal félaga Nörd um að aflétta synjuninni, hagsmunafulltrúi Nörd ber ábyrgð á því að koma málinu til hagsmunafulltrúa shí sem framfylgir málinu. Þegar að félagi er látið vita að viðkomandi sé synjað þá skal stjórn nörd vera bent á það að viðkomandi getur leitað til réttindarskrifstofu stúdentaráðs háskóla Íslands.
 
 ##    3. mgr. Brottvísun meðlima
-Stjórn nemendafélagsins getur vikið meðlimi félagsins úr því þá og því aðeins að stjórnin samþykki brottvísunina einróma. Tilkynna skal meðliminum um brottvísunina innan 2 daga frá ákvörðun og skal fylgja rökstuðningur frá stjórn nemendafélagsins fyrir brottvísunina. Greiða skal hluta nemendafélagsgjaldsins til baka við brottvísunina úr félaginu. Ef meðlimurinn safnar undirskrifta ⅖ meðlima nemendafélagsins þá skal brottvísunin tekinn til baka og má aðilinn greiða félaginu aftur nemendafélagsgjaldið sem honum var greitt til baka og gerast meðlimur Nörd.
+Stjórn nemendafélagsins getur vikið meðlimi félagsins úr því þá og því aðeins að stjórnin samþykki brottvísunina einróma. Tilkynna skal meðliminum um brottvísunina innan 2 daga frá ákvörðun og skal fylgja rökstuðningur frá stjórn nemendafélagsins fyrir brottvísunina. Greiða skal hluta nemendafélagsgjaldsins til baka við brottvísunina úr félaginu. Ef meðlimurinn safnar undirskrifta 2/5 meðlima nemendafélagsins þá skal brottvísunin tekinn til baka og má aðilinn greiða félaginu aftur nemendafélagsgjaldið sem honum var greitt til baka og gerast meðlimur Nörd.
 
 ##    4. mgr. Áminning meðlima
 Hafi viðkomandi fengið formlega áminningu áður á skólaárinu skal stjórn kjósa um brottvísun á viðkomandi við fyrsta tækifæri og honum tilkynnt um það ferli. Viðkomandi getur þá leitað til réttindaskrifstofu stúdentaráðs háskóla Íslands. Sama ferli skal fylgja með synjun og brottrekstri.
@@ -212,7 +212,7 @@ Kosið skal til embætta í eftirfarandi röð:
 10. Íþróttafullrúi
 11. Önnur embætti
 
-##    6. mgr. Leinileg kostning
+##    6. mgr. Leynileg kostning
  Kosning í embætti skal vera leynileg sé þess óskað af einhverjum atkvæðisbærum fundaraðila.
 
 ##    7. mgr. Framboð til stjórnar
@@ -240,12 +240,11 @@ Eftir að nýr forseti hefur verið kosinn verður hann að syngja lag með sæn
 Á aðalfundi skal forseti félagsins vera klæddur skotapilsi og þylja upp lokaræðu sína í formi söngs.
 
 ##    14. mgr. Autt embætti stjórnar
-Komi upp sú staða að embætti, í stjórn Nörd, sé autt eftir kosningu til nýrrar stjórnar skal halda aðra kosningu fyrir þau embætti strax að fyrri kosningu lokinni. Aðeins skal kosið í þau embætti sem sitja enn auð og það gert í þeirri röð sem er skilgreind í 4. gr.4.mgr laga. Allir meðlimir Nörd á fundinum mega bjóða sig fram í þessari síðari kosningu, og sá sem hlýtur flest atkvæði telst kjörinn í embættið. Ef embætti eru enn auð að þessari kosningu lokinni skal ný stjórn skipa einhvern í það embætti skv. 4. gr. 6. mgr.
-Laga.
+Komi upp sú staða að embætti, í stjórn Nörd, sé autt eftir kosningu til nýrrar stjórnar skal halda aðra kosningu fyrir þau embætti strax að fyrri kosningu lokinni. Aðeins skal kosið í þau embætti sem sitja enn auð og það gert í þeirri röð sem er skilgreind fyrir Aðalfund. Allir meðlimir Nörd á fundinum mega bjóða sig fram í þessari síðari kosningu, og sá sem hlýtur flest atkvæði telst kjörinn í embættið. Ef embætti eru enn auð að þessari kosningu lokinni skal ný stjórn skipa einhvern í það embætti.
 
 ##    15. mgr. Aukafundur
-Stjórn félagsins má boða til aukafundar ef hún telur þörf til þess. Meðlimir nemendafélagsins geta einnig krafist aukafundar ef ⅕ meðlima félagsins skrifa undir undirskriftarlista um þess efnis. Boðað skal til fundar með tölvupósti til allra nemenda í tölvunarfræði og hugbúnaðarverkfræði innan viku frá þess að meðlimir krefjast hans og skal hann vera haldin innan 3 vikna frá því að boðað er til hans.
-Á aukafundinum má taka fyrir lagabreytingatillögur og kosningar í embætti ef einhver embætti standa auð. Lagabreytingatillögur og framboð til embættis skulu berast formanni a.m.k. 3 dögum fyrir aukafundinn. Til að lagabreytingatillögur séu samþykktar skulu greidd ⅔ atkvæða með henni. Sá sem hlýtur flest atkvæði í embættiskosningu sigrar og tekur við embætti sínu samstundis. Á aukafundi gilda 4. gr.7.mgr og 4. gr.8.mgr laga um kosningar ásamt 4. gr.2.mgr um fundarseturétt og kosningarétt.
+Stjórn félagsins má boða til aukafundar ef hún telur þörf til þess. Meðlimir nemendafélagsins geta einnig krafist aukafundar ef 1/5 meðlima félagsins skrifa undir undirskriftarlista um þess efnis. Boðað skal til fundar með tölvupósti til allra nemenda í tölvunarfræði og hugbúnaðarverkfræði innan viku frá þess að meðlimir krefjast hans og skal hann vera haldin innan 3 vikna frá því að boðað er til hans.
+Á aukafundinum má taka fyrir lagabreytingatillögur og kosningar í embætti ef einhver embætti standa auð. Lagabreytingatillögur og framboð til embættis skulu berast formanni a.m.k. 3 dögum fyrir aukafundinn. Til að lagabreytingatillögur séu samþykktar skulu greidd 2/3 atkvæða með henni. Sá sem hlýtur flest atkvæði í embættiskosningu sigrar og tekur við embætti sínu samstundis. Á aukafundi gilda sömu lög um kosningar ásamt fundarseturétt og kosningarétt og við Aðalfund.
         
 # 9. gr. Embætti
 
@@ -259,7 +258,15 @@ Hana skulu skipa sjö aðilar: forseti, ritari, gjaldkeri, hagsmunafulltrúi, sk
 Hann skal sitja embættisfundi fyrir hönd félagsins og vera andlit þess útávið auk þess að vera blaðafulltrúi og kynningarfulltrúi. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðar-, Vélaverkfræði og Tölvunarfræði (IVT). Forseti skal sitja fyrir hönd félagsins í stjórn FV. Auk þess á hann sæti í NáttVerk fyrir hönd tölvunarfræði- og hugbúnaðarverkfræðinema samkvæmt lögum samtakanna. Forseti skal rita skýrslu stjórnar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu stjórnar.
 
 ### Ritari 
-Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 1) síðasta ársreikningi félagsins, 2) skýrslu stjórnar, 3) skýrslu skemmtinefndar, 4) uppfærðum lögum félagsins, 5) öðrum skjölum sem ritari telur að félagið eigi að varðveita, 6) rita fundargerð af fundum stjórnar sem er aðgengileg fyrir meðlimi Nörd. Ritari skal skipa árshátíðarnefnd fyrir árshátíð Nörd.
+Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Fundagerðir ritara skulu vera aðgengilegar meðlimum Nörd. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 
+- Síðasta ársreikningi félagsins, 
+- Skýrslu stjórnar, 
+- Skýrslu skemmtinefndar, 
+- Uppfærðum lögum félagsins, 
+- Öðrum skjölum sem ritari telur að félagið eigi að varðveita, 
+- Fundagerðum af fundum stjórnar 
+
+Ritari skal skipa árshátíðarnefnd fyrir árshátíð Nörd.
 
 ### Gjaldkeri
 Hann skal annast öll fjármál félagsins og halda bókhald um rekstur félagsins og skila ársreikningi á aðalfundi. Hann skal einnig sjá um útleigu skápa og annarra eigna nörd. Hann skal sjá um sameiginlegan sjóð Félags verkfræðinema til jafns við önnur aðildarfélög.
@@ -394,7 +401,7 @@ Komi upp sú staða að félagi brjóti reglur um skráningu ítrekað, er stjó
 Listinn yfir þá sem eru í vísóbanni hvert sinn skal vera opinber og aðgengilegur á síðu Nörd eða öðrum miðli.
 
 ##    8. mgr. Ótímabundið vísóbann
-Stjórn nemendafélagins hefur heimild til þess að setja meðlimi nemendafélagsins í ótímabundið „vísóbann“ ef að hún telur ástæðu til þess þó svo að meðlimurinn hafi ekki brotið neina af reglunum sem eru teknar fram í hinum meðgreinum 15. greinar lagana um skráningu á viðburði. Stjórnin skal færa meðliminum rökstuðning fyrir „vísóbanninu“. Ef meðlimurinn safnar undirskrifta ⅙ meðlima nemendafélagsins skal „vísóbanninu“ aflétt. Aðeins má beita þessari meðgrein á meðlimi sem að hafa fengið formlega áminningu frá stjórninni áður á önninni.
+Stjórn nemendafélagins hefur heimild til þess að setja meðlimi nemendafélagsins í ótímabundið „vísóbann“ ef að hún telur ástæðu til þess þó svo að meðlimurinn hafi ekki brotið neina af reglunum sem eru teknar fram í lögunum um skráningu á viðburði. Stjórnin skal færa meðliminum rökstuðning fyrir „vísóbanninu“. Ef meðlimurinn safnar undirskrifta 1/6 meðlima nemendafélagsins skal „vísóbanninu“ aflétt. Aðeins má beita þessari meðgrein á meðlimi sem að hafa fengið formlega áminningu frá stjórninni áður á önninni.
 
 ##    9. mgr. Fyrrum meðlimir
 Fyrrum meðlimum félagsins er heimilt að vera boðið af stjórninni á viðburði félagsins, og þá einnig vísindaferðir, ef laus sæti eru til staðar eftir skráningu og ef nemendafélagið er ekki skuldbundið að skila frá sér lausum sætum til annara félaga.
