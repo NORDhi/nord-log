@@ -10,7 +10,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [2. mgr. Aðild félagsins að VON, FV og Náttverk](#2-mgr-aðild-félagsins-að-von-fv-og-náttverk)
 - [4. gr. Ef félagið skuli vera lagt niður](#4-gr-ef-félagið-skuli-vera-lagt-niður)
   - [1. mgr. Eignir félagsins](#1-mgr-eignir-félagsins)
-- [5. gr. Lög varðandi lög félagsins](#5-gr-lög-varðandi-lög-félagsins)
+- [5. gr. Breytingar á lögum félagsins](#5-gr-breytingar-á-lögum-félagsins)
   - [1. mgr. Breytingar á Lögum](#1-mgr-breytingar-á-lögum)
   - [2. mgr. Sammþykkt lagabreytinga](#2-mgr-sammþykkt-lagabreytinga)
   - [3. mgr. Heimild Stjórnar](#3-mgr-heimild-stjórnar)
@@ -18,13 +18,13 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
 - [6. gr. Jafnréttislög félagsins](#6-gr-jafnréttislög-félagsins)
   - [1. mgr. Grundvallareglur jafnréttis](#1-mgr-grundvallareglur-jafnréttis)
   - [2. mgr. Brot á jafnréttislögum](#2-mgr-brot-á-jafnréttislögum)
-- [7. gr. Lög um aðild að félaginu](#7-gr-lög-um-aðild-að-félaginu)
+- [7. gr. Aðild að félaginu](#7-gr-aðild-að-félaginu)
   - [1. mgr. Réttur til inngöngu](#1-mgr-réttur-til-inngöngu)
   - [2. mgr. Synjun um inng0ngu](#2-mgr-synjun-um-inng0ngu)
   - [3. mgr. Brottvísun meðlima](#3-mgr-brottvísun-meðlima)
   - [4. mgr. Áminning meðlima](#4-mgr-áminning-meðlima)
   - [5. mgr. Brottvísun án áminningar](#5-mgr-brottvísun-án-áminningar)
-- [8. gr. Lög um aðalfund félagsins](#8-gr-lög-um-aðalfund-félagsins)
+- [8. gr. Aðalfundur félagsins](#8-gr-aðalfundur-félagsins)
   - [1. mgr. Hlutverk](#1-mgr-hlutverk)
   - [2. mgr. Tímasetning](#2-mgr-tímasetning)
   - [3. mgr. Fundarseta og atkvæði](#3-mgr-fundarseta-og-atkvæði)
@@ -63,27 +63,25 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
     - [Myndbandanefnd](#myndbandanefnd)
     - [Árshátíðarnefnd](#árshátíðarnefnd)
     - [Skemmtinefnd](#skemmtinefnd)
-- [10. gr. Lög um hvenær ný embætti taka gildi](#10-gr-lög-um-hvenær-ný-embætti-taka-gildi)
+- [10. gr. Hvenær ný embætti taka gildi](#10-gr-hvenær-ný-embætti-taka-gildi)
   - [1. mgr. Hvenar embætti taka gildi](#1-mgr-hvenar-embætti-taka-gildi)
 - [11. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar](#11-gr-lög-um-vantrausttillögur-á-sitjandi-meðlimi-stjórnar)
   - [1. mgr. Vantraust stjórnar á stjórnarmeðlim](#1-mgr-vantraust-stjórnar-á-stjórnarmeðlim)
   - [2. mgr. Vantraust meðlima á stjórnarmeðlim](#2-mgr-vantraust-meðlima-á-stjórnarmeðlim)
-  - [4. mgr. ##    3. mgr. Útkoma vantrausttillaga](#4-mgr-----3-mgr-útkoma-vantrausttillaga)
-  - [5. mgr. Meðlimir reglunnar](#5-mgr-meðlimir-reglunnar)
-  - [6. mgr. Völd reglunnar](#6-mgr-völd-reglunnar)
-- [12. gr. Lög um miðstjórn félagsins](#12-gr-lög-um-miðstjórn-félagsins)
+  - [3. mgr. Útkoma vantrausttillaga](#3-mgr-útkoma-vantrausttillaga)
+- [12. gr. Miðstjórn félagsins](#12-gr-miðstjórn-félagsins)
   - [1. mgr. Embætti miðstjórnar](#1-mgr-embætti-miðstjórnar)
   - [2. mgr. Meðlimaskylda](#2-mgr-meðlimaskylda)
   - [3. mgr. Félagsgjöld](#3-mgr-félagsgjöld)
   - [4. mgr. Álit miðstjórnar](#4-mgr-álit-miðstjórnar)
-- [13. gr. Lög um upplýsingamiðlun félagsins](#13-gr-lög-um-upplýsingamiðlun-félagsins)
+- [13. gr. Upplýsingamiðlun félagsins](#13-gr-upplýsingamiðlun-félagsins)
   - [1. mgr.. Fréttir og tilkynningar](#1-mgr-fréttir-og-tilkynningar)
   - [2. mgr. Samningsaðilar félagsins](#2-mgr-samningsaðilar-félagsins)
   - [3. mgr. Viðburðadagatal](#3-mgr-viðburðadagatal)
-- [14. gr. Lög um tímabil stærri viðburða](#14-gr-lög-um-tímabil-stærri-viðburða)
+- [14. gr. Tímabil stærri viðburða](#14-gr-tímabil-stærri-viðburða)
   - [1. mgr. Bil milli Árshátíðar Nörd og Ofurnörd](#1-mgr-bil-milli-árshátíðar-nörd-og-ofurnörd)
   - [2. mgr. Árshátíð Nörd](#2-mgr-árshátíð-nörd)
-- [15. gr. Lög um skráningu á viðburði](#15-gr-lög-um-skráningu-á-viðburði)
+- [15. gr. Skráning á viðburði](#15-gr-skráning-á-viðburði)
   - [1. mgr. Skráning](#1-mgr-skráning)
   - [2. mgr. Vísóbönn](#2-mgr-vísóbönn)
   - [3. mgr. Forföll](#3-mgr-forföll)
@@ -94,14 +92,17 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [8. mgr. Ótímabundið vísóbann](#8-mgr-ótímabundið-vísóbann)
   - [9. mgr. Fyrrum meðlimir](#9-mgr-fyrrum-meðlimir)
   - [10. mgr. Heiðursnafnbótir](#10-mgr-heiðursnafnbótir)
-- [16. gr. Lög um útskriftarnefnd](#16-gr-lög-um-útskriftarnefnd)
+- [16. gr. Útskriftarnefnd](#16-gr-útskriftarnefnd)
   - [1. mgr. Fjáröflun](#1-mgr-fjáröflun)
   - [2. mgr. Skipting fjármagns án ferðar](#2-mgr-skipting-fjármagns-án-ferðar)
   - [3. mgr. Ójöfn skipting](#3-mgr-ójöfn-skipting)
   - [4. mgr. Blaðið Kóðinn](#4-mgr-blaðið-kóðinn)
   - [5. mgr. Fyrir hvern er útskriftarferð](#5-mgr-fyrir-hvern-er-útskriftarferð)
   - [6. mgr. Forgangur Útskriftanema](#6-mgr-forgangur-útskriftanema)
-- [17. gr. Lög um Stór Árshátíðina Nörd](#17-gr-lög-um-stór-árshátíðina-nörd)
+- [17. gr. Riddarareglan](#17-gr-riddarareglan)
+  - [1. mgr. Meðlimir reglunnar](#1-mgr-meðlimir-reglunnar)
+  - [2. mgr. Völd reglunnar](#2-mgr-völd-reglunnar)
+- [18. gr. Stór Árshátíð Nörd](#18-gr-stór-árshátíð-nörd)
   - [1. mgr. Fyrsta og framtíðar tímasetningar](#1-mgr-fyrsta-og-framtíðar-tímasetningar)
   - [2. mgr. Skipulagning](#2-mgr-skipulagning)
   - [3. mgr. Forseti Stórárshátíðarnefndar](#3-mgr-forseti-stórárshátíðarnefndar)
@@ -109,7 +110,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [5. mgr. Tengsl stjórnar og Stórárshátíðarnefndar](#5-mgr-tengsl-stjórnar-og-stórárshátíðarnefndar)
   - [6. mgr. Fyrsta skráning í Stórárshátíðarnefnd](#6-mgr-fyrsta-skráning-í-stórárshátíðarnefnd)
   - [7. mgr. Framboð í stjórn Stórárshátíðarnefndar](#7-mgr-framboð-í-stjórn-stórárshátíðarnefndar)
-- [18. gr. Lög um hóp fyrrum meðlima “Ég var einu sinni Nörd”](#18-gr-lög-um-hóp-fyrrum-meðlima-ég-var-einu-sinni-nörd)
+- [19. gr. Hópurinn “Ég var einu sinni Nörd”](#19-gr-hópurinn-ég-var-einu-sinni-nörd)
   - [1. mgr.  Notkun hópsins](#1-mgr--notkun-hópsins)
 
 
@@ -136,7 +137,7 @@ Nörd er aðildafélag að Félagi verkfræðinema (FV) og heyrir undir lög þe
 ##    1. mgr. Eignir félagsins
 Verði félagið lagt niður, skulu allar eignir þess fara til FV; verði það ekki við lýði skulu eignir seldar og allt fjármagn félagsins að því loknu fara til Ský, Skýrslutæknifélag Íslands (kt.480870-0189).
 
-# 5. gr. Lög varðandi lög félagsins
+# 5. gr. Breytingar á lögum félagsins
 
 ##    1. mgr. Breytingar á Lögum
 Lögum þessum verður aðeins breytt á aðalfundi félagsins og skal tillögum til lagabreytinga skilað til forseta í síðasta lagi þremur sólarhringum fyrir aðalfund og skal stjórnin sýna félagsmönnum innsendar breytingartillögur svo fljótt sem auðið er. 
@@ -159,7 +160,7 @@ Nemendafélagið skal í hvívetna virða grundvallarreglu stjórnarskrá lýðv
 Brot gegn ákvæði 1. mgr.
 getur leitt til brottrekstrar úr nemendafélaginu.
 
-# 7. gr. Lög um aðild að félaginu
+# 7. gr. Aðild að félaginu
 
 ##    1. mgr. Réttur til inngöngu
 Rétt til inngöngu í félagið eiga allir þeir stúdentar sem stunda nám við Tölvunarfræði eða Hugbúnaðarverkfræði í Háskóla Íslands. Þeir sem hafa beina hagsmuni að félaginu en eru ekki skráðir í framangreint nám eiga möguleika á inngöngu í félagið með samþykki stjórnar. Löglegir félagsmenn teljast allir þeir sem greitt hafa félagsgjöld á viðkomandi skólaári.
@@ -176,7 +177,7 @@ Hafi viðkomandi fengið formlega áminningu áður á skólaárinu skal stjórn
 ##    5. mgr. Brottvísun án áminningar
 Komi upp sú staða að viðkomandi hafi ekki fengið formlega áminningu þá skal stjórn ráðfæra sig við réttindaskrifstofu stúdentaráðs háskóla Íslands áður en hún tekur ákvörðun um brottvísun. Viðkomandi félagsmeðlim skal þá vera upplýstur um ferli málsins.
 
-# 8. gr. Lög um aðalfund félagsins
+# 8. gr. Aðalfundur félagsins
 
 ##    1. mgr. Hlutverk
 Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
@@ -314,7 +315,7 @@ Nefndin skal í samráði við stjórn gera kynningarmyndband á tölvunarfræð
 ### Skemmtinefnd
 Nefndin skal í samráði við stjórn skipuleggja lön, spilakvöld eða aðra svipaða viðburði. Nefndin má jafnframt hvenær sem er yfir skólaárið óska eftir að halda slíkan viðburð með samþykki aðalstjórnar.
 
-# 10. gr. Lög um hvenær ný embætti taka gildi
+# 10. gr. Hvenær ný embætti taka gildi
 
 ##    1. mgr. Hvenar embætti taka gildi
 Öll embætti félagsins, að nýnemafulltrúa undanskildum, öðlast gildi strax að aðalfundi loknum.
@@ -327,17 +328,11 @@ Stjórn nemendafélagsins getur lýst yfir vantrausti á sitjandi stjórnarmeðl
 ##    2. mgr. Vantraust meðlima á stjórnarmeðlim
 Meðlimir nemendafélagsins get lýst yfir vantrausti á sitjandi stjórnarmeðlim, að því skilyrði uppfylltu að listi undirskrifta með undirskriftum 1/5 af meðlimum nemendafélagsins sé afhentur stjórn nemendafélagsins.
 
-##    4. mgr. ##    3. mgr. Útkoma vantrausttillaga
+##    3. mgr. Útkoma vantrausttillaga
 Fari svo sem í 1. eða 3. mgr.
 segir, skal tillagan borin undir alla meðlimi nemendafélagsins til samþykktar eða synjunar með kosningu. Svo tillagan nái fram að ganga þurf helmingur af kjósenda að styðja vantrausttillöguna. Fari svo þarf sá stjórnarmeðlimur sem henni var beint gegn að láta af störfum.
 
-##    5. mgr. Meðlimir reglunnar
-Innan Nörd starfar riddararegla Nörd. Allir núverandi stjórnarmeðlimir og forverar þeirra eru sjálfkrafa vígðir í riddararegluna. Stjórnarmeðlimum er heimilt að vígja alla félagsmenn sem hafa sýnt einstaka hugrekki, dyggð og hafa hagsmuni Nörd í fyrirrúmi. Allir meðlimar riddarareglunnar skulu bera fornafnið sir eða lady eftir kyni þeirra, skulu þau óska þess. Riddarar Nörd skuli varðveita hagsmuna Nörda með lífi sínu, eða þar til þeir útskrifast. 
-
-##    6. mgr. Völd reglunnar
-Allir meðlimir riddarareglunnar hafa þau völd að geta beðið aðra félagsmenn í Nörd , sem eru ekki í riddarareglunni, að svala þorsta sínum með því að ná í veigar eða draga úr hungrinu með því að ná í matvæli. Þessi völd ríkja aðeins á meðan atburður á vegum nemendafélagsins stendur yfir.
-
-# 12. gr. Lög um miðstjórn félagsins
+# 12. gr. Miðstjórn félagsins
 
 ##    1. mgr. Embætti miðstjórnar
 Stjórn nemendafélagsins er heimilt að kalla saman miðstjórn. Miðstjórn samanstendur af:
@@ -356,7 +351,7 @@ Miðstjórn ber ekki að greiða nema helming félagsgjaldsins.
 ##    4. mgr. Álit miðstjórnar
 Að beiðni stjórnar gefur miðstjórn álit sitt á þeim málefnum sem fyrir hana eru lögð.Miðstjórn kemur ekki að ákvarðanatöku.
 
-# 13. gr. Lög um upplýsingamiðlun félagsins
+# 13. gr. Upplýsingamiðlun félagsins
 
 ##    1. mgr.. Fréttir og tilkynningar
 Fréttir og aðrar tilkynningar nemendafélagsins skulu undantekningarlaust birtar bæði á íslensku og ensku.
@@ -367,7 +362,7 @@ Samningaaðilar félagsins hvort sem um einkaaðila, fyrirtæki eða stofnanir e
 ##    3. mgr. Viðburðadagatal
 Stjórn skal viðhalda viðburðadagatali sem er opið félagsmeðlimum til þess að fylgjast með skipulögðum viðburðum fram til lengri tíma með fyrirvara um mögulegar breytingar á staðsetningum, tímasetningum eða jafnvel aflýsingu viðburðar.
 
-# 14. gr. Lög um tímabil stærri viðburða
+# 14. gr. Tímabil stærri viðburða
 
 ##    1. mgr. Bil milli Árshátíðar Nörd og Ofurnörd
 Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er gert til þess að gefa Myndbandanefnd Nörd nægan tíma til að vinna Árshátíðarmyndband Nörd fyrir árshátíðina og veita þeim teinnig nægan tíma til að rækta náms sitt á milli þessara tveggja atburða.
@@ -375,7 +370,7 @@ Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er
 ##    2. mgr. Árshátíð Nörd
 Árshátíð Nörd skal vera haldin á haustönn hvers árs. Þetta er til þess að álag sé minna vegna árshátíðar FV á vorönn.
 
-# 15. gr. Lög um skráningu á viðburði
+# 15. gr. Skráning á viðburði
 
 ##    1. mgr. Skráning
 Fyrir atburði á vegum Nörd sem hafa fjöldatakmarkanir, skal halda utan um skráningu félaga á atburðinn. Skráningin skal fara fram á vef Nörd, með pósti eða öðrum hætti sem stjórn ákveður hverju sinni. Aðeins þeir sem eru skráðir á atburðinn mega mæta á hann. Þeir sem skrá sig eftir að sætin eru full fara á biðlista, og ef félagi skráir sig úr atburðinum, færast þeir á biðlistanum upp. Stjórn Nörd skal setja skýr tímamörk um hvenær skráning hefst, og hvenær henni lýkur. Ekki er hægt að skrá sig úr eða í atburðinn utan þess tíma.
@@ -407,7 +402,7 @@ Fyrrum meðlimum félagsins er heimilt að vera boðið af stjórninni á viðbu
 ##    10. mgr. Heiðursnafnbótir
 Í lok vorannar á próflokadjamminu eða síðasta viðburði félagsins á hverju skólaári skal stjórnin gefa út eftirfarandi heiðursnafnbót; Vísó-kóngur/drottning til þeirra aðila sem mæta á sem flestar vísindaferðir haldnar á vegum félagsins á árinu. Slysó-kóngur/drottning til þeirra aðila sem oftast lenda á slysó eða bráðamóttöku eftir vísindaferðir eða aðra viðburði á vegum félagsins, aðilin skal fá pakka af plástrum og hjálm til þess að vera tilbúinn í kvöldið.
 
-# 16. gr. Lög um útskriftarnefnd
+# 16. gr. Útskriftarnefnd
 
 ##    1. mgr. Fjáröflun
 Öll sú fjáröflun nefndarinnar sem fer fram fyrir útskriftarferðina sé á vegum félagsins og í nafni félagsins.
@@ -427,7 +422,15 @@ Ef nefndin vil skipta fjármagninu ójafnt skal það vera samþykkt einróma me
 ##    6. mgr. Forgangur Útskriftanema
 Útskriftarnemar skulu fá forgang inn í nefndina. Nefndin skal vera samansett af að hámarki 15 manns og er einungis leyft þeim aðilum sem ekki eru úrskriftarnemar ef hámarkið hefur ekki verið uppfyllt. Hámarkið skal hins vegar ekki vera heilagt og ef fleiri útskriftarnemar vilja ganga inn í nefndina skal það vera leyft. Nemendur ekki á útskriftarári eða sem eru ekki útskriftarnemar mega samt koma með í útskríftarferðina.
 
-# 17. gr. Lög um Stór Árshátíðina Nörd
+# 17. gr. Riddarareglan
+
+##    1. mgr. Meðlimir reglunnar
+Innan Nörd starfar riddararegla Nörd. Allir núverandi stjórnarmeðlimir og forverar þeirra eru sjálfkrafa vígðir í riddararegluna. Stjórnarmeðlimum er heimilt að vígja alla félagsmenn sem hafa sýnt einstaka hugrekki, dyggð og hafa hagsmuni Nörd í fyrirrúmi. Allir meðlimar riddarareglunnar skulu bera fornafnið sir eða lady eftir kyni þeirra, skulu þau óska þess. Riddarar Nörd skuli varðveita hagsmuna Nörda með lífi sínu, eða þar til þeir útskrifast. 
+
+##    2. mgr. Völd reglunnar
+Allir meðlimir riddarareglunnar hafa þau völd að geta beðið aðra félagsmenn í Nörd , sem eru ekki í riddarareglunni, að svala þorsta sínum með því að ná í veigar eða draga úr hungrinu með því að ná í matvæli. Þessi völd ríkja aðeins á meðan atburður á vegum nemendafélagsins stendur yfir.
+
+# 18. gr. Stór Árshátíð Nörd
 
 ##    1. mgr. Fyrsta og framtíðar tímasetningar
 Stór Árshátíð Nörd skal vera haldinn á 5 ára fresti að hausti til. Miðað er við að sú fyrsta skuli vera haldin árið 2025.
@@ -450,7 +453,7 @@ Fyrsta Stórárshátíðarnefndin skal vera skipulögð ári fyrir stórárshát
 ##    7. mgr. Framboð í stjórn Stórárshátíðarnefndar
 Á framtíðar stórárshátíðunum félagsins skal, í lok hátíðarinnar, verið kosið um næsta forseta stórárshátíðarnefndar og sjálfboðaliðar í næstu nefnd bjóða sig fram. Framboðið í forseta nefndarinnar skal einnig fara fram á stórárshátíðinni en skal vera undan framboðum í nefndina sjálfa.
 
-# 18. gr. Lög um hóp fyrrum meðlima “Ég var einu sinni Nörd”
+# 19. gr. Hópurinn “Ég var einu sinni Nörd”
 
 ##    1. mgr.  Notkun hópsins
 Hópurinn skal einungis vera notaður af stjórninni til að auglýsa:
