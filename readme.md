@@ -12,15 +12,15 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [1. mgr. Eignir félagsins](#1-mgr-eignir-félagsins)
 - [5. gr. Breytingar á lögum félagsins](#5-gr-breytingar-á-lögum-félagsins)
   - [1. mgr. Breytingar á Lögum](#1-mgr-breytingar-á-lögum)
-  - [2. mgr. Sammþykkt lagabreytinga](#2-mgr-sammþykkt-lagabreytinga)
+  - [2. mgr. Samþykkt lagabreytinga](#2-mgr-samþykkt-lagabreytinga)
   - [3. mgr. Heimild Stjórnar](#3-mgr-heimild-stjórnar)
   - [4. mgr. Kvörtun við breytingu](#4-mgr-kvörtun-við-breytingu)
 - [6. gr. Jafnréttislög félagsins](#6-gr-jafnréttislög-félagsins)
-  - [1. mgr. Grundvallareglur jafnréttis](#1-mgr-grundvallareglur-jafnréttis)
+  - [1. mgr. Grundvallarreglur jafnréttis](#1-mgr-grundvallarreglur-jafnréttis)
   - [2. mgr. Brot á jafnréttislögum](#2-mgr-brot-á-jafnréttislögum)
 - [7. gr. Aðild að félaginu](#7-gr-aðild-að-félaginu)
   - [1. mgr. Réttur til inngöngu](#1-mgr-réttur-til-inngöngu)
-  - [2. mgr. Synjun um inng0ngu](#2-mgr-synjun-um-inng0ngu)
+  - [2. mgr. Synjun um inngöngu](#2-mgr-synjun-um-inngöngu)
   - [3. mgr. Brottvísun meðlima](#3-mgr-brottvísun-meðlima)
   - [4. mgr. Áminning meðlima](#4-mgr-áminning-meðlima)
   - [5. mgr. Brottvísun án áminningar](#5-mgr-brottvísun-án-áminningar)
@@ -30,7 +30,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [3. mgr. Fundarseta og atkvæði](#3-mgr-fundarseta-og-atkvæði)
   - [4. mgr. Dagskrá](#4-mgr-dagskrá)
   - [5. mgr. Röð embætta til kosninga](#5-mgr-röð-embætta-til-kosninga)
-  - [6. mgr. Leynileg kostning](#6-mgr-leynileg-kostning)
+  - [6. mgr. Leynileg kosning](#6-mgr-leynileg-kostning)
   - [7. mgr. Framboð til stjórnar](#7-mgr-framboð-til-stjórnar)
   - [8. mgr. Fjöldi embætta á hvern einstakling innan stjórnar](#8-mgr-fjöldi-embætta-á-hvern-einstakling-innan-stjórnar)
   - [9. mgr. Afsögn stjórnarmeðlims](#9-mgr-afsögn-stjórnarmeðlims)
@@ -64,7 +64,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
     - [Árshátíðarnefnd](#árshátíðarnefnd)
     - [Skemmtinefnd](#skemmtinefnd)
 - [10. gr. Hvenær ný embætti taka gildi](#10-gr-hvenær-ný-embætti-taka-gildi)
-  - [1. mgr. Hvenar embætti taka gildi](#1-mgr-hvenar-embætti-taka-gildi)
+  - [1. mgr. Hvenær embætti taka gildi](#1-mgr-hvenar-embætti-taka-gildi)
 - [11. gr. Lög um vantrausttillögur á sitjandi meðlimi stjórnar](#11-gr-lög-um-vantrausttillögur-á-sitjandi-meðlimi-stjórnar)
   - [1. mgr. Vantraust stjórnar á stjórnarmeðlim](#1-mgr-vantraust-stjórnar-á-stjórnarmeðlim)
   - [2. mgr. Vantraust meðlima á stjórnarmeðlim](#2-mgr-vantraust-meðlima-á-stjórnarmeðlim)
@@ -98,7 +98,7 @@ Lög Nörd, félags tölvunarfræði- og hugbúnaðarverkfræðinema
   - [3. mgr. Ójöfn skipting](#3-mgr-ójöfn-skipting)
   - [4. mgr. Blaðið Kóðinn](#4-mgr-blaðið-kóðinn)
   - [5. mgr. Fyrir hvern er útskriftarferð](#5-mgr-fyrir-hvern-er-útskriftarferð)
-  - [6. mgr. Forgangur Útskriftanema](#6-mgr-forgangur-útskriftanema)
+  - [6. mgr. Forgangur Útskriftarnema](#6-mgr-forgangur-útskriftarnema)
 - [17. gr. Riddarareglan](#17-gr-riddarareglan)
   - [1. mgr. Meðlimir reglunnar](#1-mgr-meðlimir-reglunnar)
   - [2. mgr. Völd reglunnar](#2-mgr-völd-reglunnar)
@@ -153,7 +153,7 @@ Berist kvörtun yfir einhverri breytingu innan viku frá tilkynningunni skal vi�
 
 # 6. gr. Jafnréttislög félagsins
 
-##    1. mgr. Grundvallareglur jafnréttis
+##    1. mgr. Grundvallarreglur jafnréttis
 Nemendafélagið skal í hvívetna virða grundvallarreglu stjórnarskrá lýðveldisins Íslands um frelsi einstaklingsins. Allir nemendur skulu vera jafnir og njóta sömu réttinda án tillits til kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti.
 
 ##    2. mgr. Brot á jafnréttislögum
@@ -165,8 +165,8 @@ getur leitt til brottrekstrar úr nemendafélaginu.
 ##    1. mgr. Réttur til inngöngu
 Rétt til inngöngu í félagið eiga allir þeir stúdentar sem stunda nám við Tölvunarfræði eða Hugbúnaðarverkfræði í Háskóla Íslands. Þeir sem hafa beina hagsmuni að félaginu en eru ekki skráðir í framangreint nám eiga möguleika á inngöngu í félagið með samþykki stjórnar. Löglegir félagsmenn teljast allir þeir sem greitt hafa félagsgjöld á viðkomandi skólaári.
 
-##    2. mgr. Synjun um inng0ngu
-Stjórn nemendafélagsins má synja nemanda um inngöngu í nemendafélagið ef stjórnin er einróma samþykk þess að gera það. Þeim nemenda skal færður rökstuðningur fyrir ákvörðuninni innan 3 daga frá ákvörðun stjórnar. Sá nemandi getur krafist kosningar meðal félaga Nörd um að aflétta synjuninni, hagsmunafulltrúi Nörd ber ábyrgð á því að koma málinu til hagsmunafulltrúa shí sem framfylgir málinu. Þegar að félagi er látið vita að viðkomandi sé synjað þá skal stjórn nörd vera bent á það að viðkomandi getur leitað til réttindarskrifstofu stúdentaráðs háskóla Íslands.
+##    2. mgr. Synjun um inngöngu
+Stjórn nemendafélagsins má synja nemanda um inngöngu í nemendafélagið ef stjórnin er einróma samþykki þess að gera það. Þeim nemenda skal færður rökstuðningur fyrir ákvörðuninni innan 3 daga frá ákvörðun stjórnar. Sá nemandi getur krafist kosningar meðal félaga Nörd um að aflétta synjuninni, hagsmunafulltrúi Nörd ber ábyrgð á því að koma málinu til hagsmunafulltrúa shí sem framfylgir málinu. Þegar að félagi er látið vita að viðkomandi sé synjað þá skal stjórn nörd vera bent á það að viðkomandi getur leitað til réttindaskrifstofu stúdentaráðs háskóla Íslands.
 
 ##    3. mgr. Brottvísun meðlima
 Stjórn nemendafélagsins getur vikið meðlimi félagsins úr því þá og því aðeins að stjórnin samþykki brottvísunina einróma. Tilkynna skal meðliminum um brottvísunina innan 2 daga frá ákvörðun og skal fylgja rökstuðningur frá stjórn nemendafélagsins fyrir brottvísunina. Greiða skal hluta nemendafélagsgjaldsins til baka við brottvísunina úr félaginu. Ef meðlimurinn safnar undirskrifta 2/5 meðlima nemendafélagsins þá skal brottvísunin tekinn til baka og má aðilinn greiða félaginu aftur nemendafélagsgjaldið sem honum var greitt til baka og gerast meðlimur Nörd.
@@ -183,7 +183,7 @@ Komi upp sú staða að viðkomandi hafi ekki fengið formlega áminningu þá s
 Aðalfundur er æðsta vald í málefnum félagsins og á honum skal skipa í öll embætti til þess nema nýnemafulltrúa sem skal vera kosið í á nýnemakvöldi Nörd.
 
 ##    2. mgr. Tímasetning
-Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samféSlaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
+Aðalfund félagsins skal halda eigi seinna en í næst síðustu viku vor annar ár hvert og skal til hans boðað með að minnsta kosti tíu daga fyrirvara gegnum tölvupóst. Komi til þess að aðstæður í samfélaginu gefa ekki kost á því að aðalfundur geti orðið. Hefur stjórn félagsins, í samráði við meðlimi félagsins, heimild til þess að fresta eða aflýsa fundinum svo lengi sem að í nýja stjórn sé kosið á lýðræðislegan hátt fyrir byrjun komandi annar.
 
 ##    3. mgr. Fundarseta og atkvæði
 Rétt til fundarsetu hafa allir þeir sem skráðir eru í tölvunarfræði og hugbúnaðarverkfræði við Háskóla Íslands eða eru meðlimir skráðir í Nörd en atkvæðisbærir skulu þeir einir teljast sem skráðir eru í Nörd. Þeir einir hafa leyfi til að bjóða sig fram í embætti sem skráðir eru í félagið.
@@ -209,10 +209,10 @@ Kosið skal til embætta í eftirfarandi röð:
 7. Kerfismeistari
 8. Alþjóðafulltrúi
 9. Hirðljósmyndarar
-10. Íþróttafullrúi
+10. Íþróttafulltrúi
 11. Önnur embætti
 
-##    6. mgr. Leynileg kostning
+##    6. mgr. Leynileg kosning
  Kosning í embætti skal vera leynileg sé þess óskað af einhverjum atkvæðisbærum fundaraðila.
 
 ##    7. mgr. Framboð til stjórnar
@@ -221,7 +221,7 @@ Frambjóðendur í embætti þurfa að tilkynna um framboð a.m.k. 3 dögum fyri
 Utanstaðarkosning fer fram með því að fylla út atkvæðismiða hjá stjórn félagsins.
 
 ##    8. mgr. Fjöldi embætta á hvern einstakling innan stjórnar
-Enginn meðlimur í stjórn má gegna fleiru en einu embætti stjórnar í einu.  Undanþága frá þessu er að ritari skal gegna hlutverki forseta í fjarveru hans.
+Enginn meðlimur í stjórn má gegna fleiri en einu embætti stjórnar í einu.  Undanþága frá þessu er að ritari skal gegna hlutverki forseta í fjarveru hans.
 
 ##    9. mgr. Afsögn stjórnarmeðlims
 Ef upp kemur sú staða að meðlimur stjórnar lætur af störfum þá skal stjórn funda eins fljótt og auðið er og skipa nýjan einstakling til að gegna embættinu.
@@ -258,7 +258,7 @@ Hana skulu skipa sjö aðilar: forseti, ritari, gjaldkeri, hagsmunafulltrúi, sk
 Hann skal sitja embættisfundi fyrir hönd félagsins og vera andlit þess útávið auk þess að vera blaðafulltrúi og kynningarfulltrúi. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðar-, Vélaverkfræði og Tölvunarfræði (IVT). Forseti skal sitja fyrir hönd félagsins í stjórn FV. Auk þess á hann sæti í NáttVerk fyrir hönd tölvunarfræði- og hugbúnaðarverkfræðinema samkvæmt lögum samtakanna. Forseti skal rita skýrslu stjórnar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu stjórnar.
 
 ### Ritari 
-Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Fundagerðir ritara skulu vera aðgengilegar meðlimum Nörd. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 
+Hann skal rita fundargerðir stjórnarfunda og halda utanum öll skjöl sem félaginu kunna að berast. Fundargerðir ritara skulu vera aðgengilegar meðlimum Nörd. Hann mun starfa sem varaforseti og tekur við forseti í fjarveru hans, og uppfylla starfslýsingu forseta samkvæmt þessum lögum. Hann er einnig blaðafulltrúi með forseta og sér um kynningar í blöð. Ritari ber ábyrgð á að varðveita skjalasafn félagsins. Áður en kjörtímabili ritara líkur skal hann bæta í skjalasafnið 
 - Síðasta ársreikningi félagsins, 
 - Skýrslu stjórnar, 
 - Skýrslu skemmtinefndar, 
@@ -275,10 +275,10 @@ Hann skal annast öll fjármál félagsins og halda bókhald um rekstur félagsi
 Skemmtanastjóri skal, í samráði við stjórn félagsins, sjá um skipulagningu og framkvæmd alls skemmtanalífs á vegum félagsins, þ.m.t. vísindaferðir. Undantekning á þessari reglu er árshátíð félagsins. Skemmtanastjóri skal skipa skemmtinefnd fyrir lok annar. Skemmtanastjóri skal rita skýrslu skemmtinefndar og afhenda ritara fyrir lok kjörtímabils. Tilgangur skýrslunnar er að miðla gagnlegum upplýsingum til næstu skemmtinefndar.
 
 ### Hagsmunafulltrúi
-Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
+Hann skal verða meðstjórnandi og sitja stjórnarfundi. Hann er trúnaðarmaður nemenda varðandi námið og fær aðgang að kennslukönnuninni fyrir hönd tölvunar- og hugbúnaðarverkfræðinema. Hann situr sem deildarfulltrúi. Hann skal halda fund með deildarformanni helst mánaðarlega og ekki seinna en á tveggja mánaða fresti og fara yfir stöðu kennslu og hagsmunamálefni nemenda. Hann skal sitja fyrir hönd félagsins deilda- og deildarráðsfundi, sviðsráðsfundi sem og aðra fundi sem hann er skipaður í, í bróðerni við önnur félög innan deildar Iðnaðarverkfræði, vélaverkfræði og Tölvunarfræði (IVT). Hagsmunafulltrúi skal fá sér aðgang að fjárhagsstöðu félagsins frá gjaldkera. Hagsmunafulltrúi skal vera fulltrúi Nörd í árshátíðarnefnd FV.
 
 ### Upplýsingafulltrúi
-Hann skal hafa yfirsýn yfir öllum samfélagsmiðlum nemendafélagsins Nörd og þjóna sem grafískur hönnuður nemendafélagsins. Hann sér um helstu samskipti við hirðljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélgasmiðla (t.d. snappari kvöldsins). Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsingarfulltrúi sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Upplýsingafulltrúi skal hafa yfirumsjón með Ofurnörd ásamt Tvíund.
+Hann skal hafa yfirsýn yfir öllum samfélagsmiðlum nemendafélagsins Nörd og þjóna sem grafískur hönnuður nemendafélagsins. Hann sér um helstu samskipti við hirðljósmyndara Nörd. Hann má tilnefna viljuga félaga til að leggja til efni á samfélagsmiðla (t.d. snappari kvöldsins). Einnig skal hann sjá um að setja auglýsingar og efni frá styrktaraðilum og samstarfsaðilum Nörd inn á miðlana. Upplýsingarfulltrúi sýnir ímynd Nörd út á við og ber því skylda að sýna hana með sóma. Upplýsingafulltrúi skal hafa yfirumsjón með Ofurnörd ásamt Tvíund.
 
 ### Nýnemafulltrúi
 Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins fyrir 1.árs nemum. Hann skal einnig vera tengiliður 1.árs nema við stjórn félagsins. Kosið skal um þetta embætti eins fljótt og auðið er á hverju ári. Stjórn er heimilt að víkja 1. árs fulltrúa frá störfum að undangenginni viðvörun telji stjórnin hann ekki sinna hlutverki sínu. Stjórn skipar þá nýjan fulltrúa eins fljótt og auðið er.
@@ -287,10 +287,10 @@ Hann skal í samstarfi við stjórnina, sjá um kynningu á störfum félagsins 
 Miðstjórn félagsins er skipuð af Íþróttafulltrúa, Alþjóðafulltrúa, Hirðljósmyndurum, Kynningarnefnd og forseta Myndbandanefndar. Miðstjórn félagsins er skylt að vera meðlimir í Nörd en hún þarf þó ekki að greiða nema helming félagsgjaldsins svo lengi sem viðkomandi sinnir embættinu.
 
 ### Íþróttafulltrúar
-Íþróttafulltrúar skulu vera tveir. Þeir stuðla  að áhuga "heilsusamlegrar" hreyfingar félagsmanna Nörd. Þeir koma að skipulagningu og framkvæmd keppnis- og íþróttaviðburða eins og t.d. hina árlegu miðnætur Esjugöngu. Íþróttafulltrúar skulu koma að þáttöku félagsins í Nýnemamóti SHÍ í fótbolta ásamt því að stuðla að þáttöku Nörda í íþróttaviðburðum sem kunnu vera haldnir innan háskólasamfélagsins. Íþróttafulltrúar skulu sjá um að halda íþróttaviðburði a.m.k. einu sinni á önn. Hvort sem það er fótbolta-, badminton-, eða rafíþróttamót ofan á föstu íþróttaviðburðina sem nú þegar eru til staðar, svo sem hina árlegu Esjugöngu. Einnig er á þeirra ábyrgð að undirbúa Nörda fyrir Ofurnörd, t.d. Með rafíþróttamóti. Íþróttafulltrúar í samræmi við stjórn skulu halda eitt LAN á ári.
+Íþróttafulltrúar skulu vera tveir. Þeir stuðla  að áhuga "heilsusamlegrar" hreyfingar félagsmanna Nörd. Þeir koma að skipulagningu og framkvæmd keppnis- og íþróttaviðburða eins og t.d. hina árlegu miðnætur Esjugöngu. Íþróttafulltrúar skulu koma að þáttöku félagsins í Nýnemamóti SHÍ í fótbolta ásamt því að stuðla að þátttöku Nörda í íþróttaviðburðum sem kunnu vera haldnir innan háskólasamfélagsins. Íþróttafulltrúar skulu sjá um að halda íþróttaviðburði a.m.k. einu sinni á önn. Hvort sem það er fótbolta-, badminton-, eða rafíþróttamót ofan á föstu íþróttaviðburðina sem nú þegar eru til staðar, svo sem hina árlegu Esjugöngu. Einnig er á þeirra ábyrgð að undirbúa Nörda fyrir Ofurnörd, t.d. Með rafíþróttamóti. Íþróttafulltrúar í samræmi við stjórn skulu halda eitt LAN á ári.
 
 ### Alþjóðafulltrúi
-Hlutverk hans er að vera tengiliður félagsins við skiptinema og alþjóðleg samtök sem sýna áhuga á samstarfi við Nörd eða nemendur í hugbúnaðarverkfæði og tölvunarfræði. Einnig skal hann efla tengsl félagsins á alþjóðavísu og vera félaginu til sóma.
+Hlutverk hans er að vera tengiliður félagsins við skiptinema og alþjóðleg samtök sem sýna áhuga á samstarfi við Nörd eða nemendur í hugbúnaðarverkfræði og tölvunarfræði. Einnig skal hann efla tengsl félagsins á alþjóðavísu og vera félaginu til sóma.
 
 
 ### Hirðljósmyndarar
@@ -338,7 +338,7 @@ Meðlimir nemendafélagsins get lýst yfir vantrausti á sitjandi stjórnarmeðl
 
 ##    3. mgr. Útkoma vantrausttillaga
 Fari svo sem í 1. eða 3. mgr.
-segir, skal tillagan borin undir alla meðlimi nemendafélagsins til samþykktar eða synjunar með kosningu. Svo tillagan nái fram að ganga þurf helmingur af kjósenda að styðja vantrausttillöguna. Fari svo þarf sá stjórnarmeðlimur sem henni var beint gegn að láta af störfum.
+segir, skal tillagan borin undir alla meðlimi nemendafélagsins til samþykktar eða synjunar með kosningu. Svo tillagan nái fram að ganga þurfi helmingur kjósenda að styðja vantrausttillöguna. Fari svo þarf sá stjórnarmeðlimur sem henni var beint gegn að láta af störfum.
 
 # 12. gr. Miðstjórn félagsins
 
@@ -373,7 +373,7 @@ Stjórn skal viðhalda viðburðadagatali sem er opið félagsmeðlimum til þes
 # 14. gr. Tímabil stærri viðburða
 
 ##    1. mgr. Bil milli Árshátíðar Nörd og Ofurnörd
-Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er gert til þess að gefa Myndbandanefnd Nörd nægan tíma til að vinna Árshátíðarmyndband Nörd fyrir árshátíðina og veita þeim teinnig nægan tíma til að rækta náms sitt á milli þessara tveggja atburða.
+Líða þarf a.m.k. mánuður milli Ofurnörd og Árshátíðar Nörd. Þetta er gert til þess að gefa Myndbandanefnd Nörd nægan tíma til að vinna Árshátíðarmyndband Nörd fyrir árshátíðina og veita þeim einnig nægan tíma til að rækta náms sitt á milli þessara tveggja atburða.
 
 ##    2. mgr. Árshátíð Nörd
 Árshátíð Nörd skal vera haldin á haustönn hvers árs. Þetta er til þess að álag sé minna vegna árshátíðar FV á vorönn.
@@ -427,8 +427,8 @@ Ef nefndin vil skipta fjármagninu ójafnt skal það vera samþykkt einróma me
 ##    5. mgr. Fyrir hvern er útskriftarferð
 Útskriftarnefndin skal vera ætluð útskriftarnemum sem skilgreindir skulu vera sem nemendur sem útskrifast munu á næstu tveimur misserum frá stofnun nefndarinnar, núverandi önn meðtöldu, eða sem hafa útskrifast á síðustu önn og ekki farið í útskriftarferð með síðustu útskriftarnefnd.
 
-##    6. mgr. Forgangur Útskriftanema
-Útskriftarnemar skulu fá forgang inn í nefndina. Nefndin skal vera samansett af að hámarki 15 manns og er einungis leyft þeim aðilum sem ekki eru úrskriftarnemar ef hámarkið hefur ekki verið uppfyllt. Hámarkið skal hins vegar ekki vera heilagt og ef fleiri útskriftarnemar vilja ganga inn í nefndina skal það vera leyft. Nemendur ekki á útskriftarári eða sem eru ekki útskriftarnemar mega samt koma með í útskríftarferðina.
+##    6. mgr. Forgangur Útskriftarnema
+Útskriftarnemar skulu fá forgang inn í nefndina. Nefndin skal vera samansett af að hámarki 15 manns og er einungis leyft þeim aðilum sem ekki eru úrskriftarnemar ef hámarkið hefur ekki verið uppfyllt. Hámarkið skal hins vegar ekki vera heilagt og ef fleiri útskriftarnemar vilja ganga inn í nefndina skal það vera leyft. Nemendur ekki á útskriftarári eða sem eru ekki útskriftarnemar mega samt koma með í útskriftarferðina.
 
 # 17. gr. Riddarareglan
 
@@ -444,7 +444,7 @@ Allir meðlimir riddarareglunnar hafa þau völd að geta beðið aðra félagsm
 Stór Árshátíð Nörd skal vera haldinn á 5 ára fresti að hausti til. Miðað er við að sú fyrsta skuli vera haldin árið 2025.
 
 ##    2. mgr. Skipulagning
-Stórárshátíðarnefndin skal sjá um skipulagningu stórárshátíðar Nörd.
+Stórárshátíðarnefndin skal sjá um skipulagningu Stórárshátíðar Nörd.
 
 ##    3. mgr. Forseti Stórárshátíðarnefndar
 Forseti Stórárshátíðarnefndar skal vera yfir Stórárshátíðarnefndinni og sjá til að Stórárshátíðin verði haldin.
@@ -455,11 +455,11 @@ Stórárshátíðarnefnd, Forseti Stórárshátíðarnefndar og Stórárshátí�
 ##    5. mgr. Tengsl stjórnar og Stórárshátíðarnefndar
 Fyrsta Stórárshátíðin Nörd skuli vera skipulögð alfarið að sjálfboðaliðum sem ganga í stórárshátíðiðarnefnd. Stjórnin félagsins skal ekki sjá um skipulagningu árshátíðarinnar en Samfélagsmiðill stjórnarinnar félagsins skal vera nefndinni til aðstoðar.
 
-##    6. mgr. Fyrsta skráning í Stórárshátíðarnefnd
-Fyrsta Stórárshátíðarnefndin skal vera skipulögð ári fyrir stórárshátíðarhaldið og skal skmráningin í þá nefnd vera auglýst af sjálfboðaliða eigi síður en í lok ágúst árið á undan.
+##    6. mgr. Fyrsta skráning í Stórárshátíðarrnefnd
+Fyrsta Stórárshátíðarnefndin skal vera skipulögð ári fyrir stórárshátíðarhaldið og skal skráningin í þá nefnd vera auglýst af sjálfboðaliða eigi síður en í lok ágúst árið á undan.
 
 ##    7. mgr. Framboð í stjórn Stórárshátíðarnefndar
-Á framtíðar stórárshátíðunum félagsins skal, í lok hátíðarinnar, verið kosið um næsta forseta stórárshátíðarnefndar og sjálfboðaliðar í næstu nefnd bjóða sig fram. Framboðið í forseta nefndarinnar skal einnig fara fram á stórárshátíðinni en skal vera undan framboðum í nefndina sjálfa.
+Á framtíðar stórárshátíðunum félagsins skal, í lok hátíðarinnar, verið kosið um næsta forseta stórárshátíðarnefndar og sjálfboðaliðar í næstu nefnd bjóða sig fram. Framboðið í forseta nefndarinnar skal einnig fara fram á Stórárshátíðinni en skal vera undan framboðum í nefndina sjálfa.
 
 # 19. gr. Hópurinn “Ég var einu sinni Nörd”
 
